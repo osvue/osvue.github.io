@@ -1,17 +1,11 @@
+# React
+
+用于构建用户界面的 JavaScript 库
+
+[START ==>](https://react.docschina.org/)
+
 ---
-title: 三驾马车
----
 
-## vue 介绍
+![react](/img/react.svg)
 
-
-
-Vue是目前最火（在国内）的一个前端框架，与Angular.js、React.js并成为前端三大框架。
-
-它是一个构建用户界面的框架
-
-是一个轻量级的MVVM（Model-View-ViewModel），其实就是所谓的数据的双向绑定
-
-数据驱动和组件化的前端开发
-
-通过简单的API就能实现响应式的数据绑定和组合的视图组件
+后续有时间会更新,敬请期待.......................

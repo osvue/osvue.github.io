@@ -13,14 +13,8 @@ features:
 
 ---
 
-
-
-
-::: danger
-
-## :tada: 匮乏即是富足 自律产生喜悦 :tada:
-
-:::
+## 飓风过岗 , 伏草惟存 
+## 天之将明 , 其黑尤烈
 
 <p style="text-align:center;">MIT Licensed | Copyright © 2018-2020 回首恍然如梦中</p>
 

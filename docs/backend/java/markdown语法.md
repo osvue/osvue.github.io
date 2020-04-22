@@ -1,8 +1,21 @@
-# Cmd Markdown 简明语法手册
+---
+autoGroup-1: Markdown
+title: Markdown 简明语法手册
+---
 
 标签： Cmd-Markdown
 
 ---
+
+## markdown 分组
+```markdown
+---
+autoGroup-1: Markdown
+title: Markdown 简明语法手册
+---
+
+
+```
 
 ### 1. 斜体和粗体
 

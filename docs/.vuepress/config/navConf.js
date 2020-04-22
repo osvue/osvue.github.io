@@ -1,7 +1,7 @@
 module.exports = [
   { text: '前端UI', items: [
-    { text: 'HTML', link: '/ui/html/' },
-    { text: 'CSS', link: '/ui/css/' },
+   /* { text: 'HTML', link: '/ui/html/' },
+    { text: 'CSS', link: '/ui/css/' },*/
     { text: 'JavaScript', link: '/ui/javascript/' },
     { text: 'UI 框架', link: '/ui/uif/' },
     { text: 'Vue.js', link: '/ui/vue/' },
@@ -29,9 +29,13 @@ module.exports = [
   ]},
 
   { text: '开发工具', items: [
-    { text: 'IDEA', link: '/devtools/idea/' },
-    { text: 'Eclipse', link: '/devtools/eclipse/' },
-    { text: 'VSCode', link: '/devtools/vscode/' },
+    { text: 'IDEA', link: '/devtool/idea/' },
+    { text: 'GIT', link: '/devtool/git/' },
+	{ text: 'Windows', link: '/devtool/win/' },
+	{ text: 'VScode', link: '/devtool/vscode/' },
+	{ text: 'GitHub', link: '/devtool/github/' },
+	{ text: 'Chrome', link: '/devtool/chrome/' },
+
 
   ]},
    {text: '关于自己',items: [
