@@ -1,4 +1,7 @@
-# 关于Nacos 补充
+---
+autoGroup-1: AlibabaCloud
+title: 关于Nacos 补充
+---
 
 ## Naocs 支持 AP和 CP 的切换
 
