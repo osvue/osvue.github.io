@@ -1,5 +1,5 @@
 ---
-autoGroup-1: AlibabaCloud
+autoGroup-3: Sentinel
 title: Sentinel 流量卫兵
 ---
 

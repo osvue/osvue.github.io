@@ -1,6 +1,6 @@
 ---
 autoGroup-1: AlibabaCloud
-title: 创建统一依赖中心
+title: Start统一依赖中心
 ---
 
 * 环境使用Maven 聚合工程, 方便管理

@@ -1,5 +1,5 @@
 ---
-autoGroup-1: AlibabaCloud
+autoGroup-2: Alibaba_Nacos
 title: 关于Nacos 补充
 ---
 

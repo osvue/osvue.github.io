@@ -1,8 +1,8 @@
 ---
-autoGroup-1: AlibabaCloud
+autoGroup-3: Sentinel
 title: Resources属性说明
 ---
- 
+
 
 参考源码的注释，逐个解释下这几个属性的作用。
 
@@ -39,6 +39,8 @@ blockHandler 函数访问范围需要是 public，返回类型需要与原方法
     return new ResultBean<>(888,"测试全局的ResultController"+gl.getMessage());
   }
 ```
+
+- 在Sentinel控制台主要是根据@SentinelResource的`value`来进行流控降级
 
 #### blockHandlerClass
 
