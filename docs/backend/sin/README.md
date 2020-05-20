@@ -26,5 +26,9 @@
 - Spring MVC
 - MyBatis
 - Vue
-- 内容都是基于 **Typora** 
+- React
+- Oracle 
+- Mysql
+- WebLogic
+- 敬请关注
 - ................  
