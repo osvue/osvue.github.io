@@ -3,7 +3,7 @@ const navConf = require('./config/navConf.js');
 const headConf = require('./config/headConf.js');
 
 module.exports = {
-  title: '回首恍然如梦中', // 设置网站标题
+  title: '不是第一', // 设置网站标题
   base: '/',
   dest: './dist',   // 设置输出目录
   port: 2666, //端口

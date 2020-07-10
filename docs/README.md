@@ -13,10 +13,18 @@ features:
 
 ---
 
-## 飓风过岗 , 伏草惟存 
-## 天之将明 , 其黑尤烈
+::: tip
+ 八十万虎贲长戈所向，白骨丘山<br>
+ 百万亿浩土战祸绵延，血流成河<br>
+ 家国狠，生民苦<br>
+ 七尺儿郎孰能忘<br>
+ 愿长安，祈太平，谁怜？<br>
+  康宁还需青锋剑，不做忍气苟且人<br>
+ 今朝绝尘出五关，是非功过后人说<br>
 
-<p style="text-align:center;">MIT Licensed | Copyright © 2018-2020 回首恍然如梦中</p>
+:::
+
+<p style="text-align:center;">MIT Licensed | Copyright © 2018-2020 不是第一</p>
 
 
 
