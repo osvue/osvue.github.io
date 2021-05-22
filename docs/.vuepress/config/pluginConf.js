@@ -19,8 +19,9 @@ module.exports = {
   },
   "vuepress-plugin-auto-sidebar": {
     titleMode: "uppercase",
+    // 配置自动折叠 用于文件多的情况
     collapseList: [
-      "/frontend/javascript/"
+      "/ui/javascript/"
     ]
   }
 };

@@ -32,6 +32,26 @@ title: Markdown 简明语法手册
 
 ```
 
+
+
+
+::: tip
+这是一个提示
+:::
+
+::: warning
+这是一个警告
+:::
+
+::: danger
+这是一个危险警告
+:::
+
+::: details
+这是一个详情块，在 IE / Edge 中不生效
+:::
+
+
 ### 1. 斜体和粗体
 
 使用 * 和 ** 表示斜体和粗体。
@@ -64,7 +84,7 @@ title: Markdown 简明语法手册
 
 示例：
 
-这是去往 [本人博客](http://ghosertblog.github.com) 的链接。
+这是去往 [本人博客](http://osvue.github.io) 的链接。
 
 ### 4. 无序列表
 

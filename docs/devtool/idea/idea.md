@@ -1,7 +1,7 @@
 # IDEA 生成entity
 
 
-
+## for spring data jpa
 ```groovy
 import com.intellij.database.model.DasTable
 import com.intellij.database.model.ObjectKind

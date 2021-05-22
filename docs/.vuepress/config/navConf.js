@@ -3,19 +3,25 @@ module.exports = [
    /* { text: 'HTML', link: '/ui/html/' },
     { text: 'CSS', link: '/ui/css/' },*/
     { text: 'JavaScript', link: '/ui/javascript/' },
-    { text: 'UI 框架', link: '/ui/uif/' },
+    // bootstrap  layui easyui ....
+    { text: 'UI', link: '/ui/uif/' },
     { text: 'node.js', link: '/ui/node/' },
     { text: 'Vue.js', link: '/ui/vue/' },
     { text: 'React', link: '/ui/react/' },
-    { text: 'Angular', link: '/ui/angular/' },
+    { text: 'jquery', link: '/ui/jquery/' },
   ]},
-  { text: '后端', items: [
-    { text: 'JAVA 基础', link: '/backend/java/' },
+  { text: 'JAVA', items: [
+     
+    { text: '基础', link: '/backend/java/' },
+    { text: 'spring', link: '/backend/spring/' },
+    { text: 'boot', link: '/backend/boot/' },
+    { text: 'cloud', link: '/backend/cloud/' },
+    { text: 'alibaba', link: '/backend/alibaba/' },
+
     { text: 'Security', link: '/backend/oauth/' },
     { text: '数据库', link: '/backend/database/' },
-    { text: '单体架构', link: '/backend/sin/' },
-    { text: '微服务架构', link: '/backend/cloud/' },
-    { text: 'alibaba', link: '/backend/alibaba/' },
+    { text: '单体架构', link: '/backend/single/' },
+    
 
   ]},
   { text: 'Server', items: [
