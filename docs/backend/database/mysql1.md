@@ -1,4 +1,9 @@
-# mysql进阶练习题
+---
+autoGroup-1: MySQL
+title:  进阶练习题
+---
+
+
 
 ### 1、表结构
 

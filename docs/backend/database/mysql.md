@@ -1,5 +1,8 @@
-# MySQL
 ---
+autoGroup-1: MySQL
+title:  基础函数
+---
+
 ## IF表达式
 - IF(expr1,expr2,expr3)
 >如果 expr1 是TRUE (expr1 <> 0 and expr1 <> NULL)，

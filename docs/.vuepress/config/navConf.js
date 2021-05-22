@@ -4,17 +4,18 @@ module.exports = [
     { text: 'CSS', link: '/ui/css/' },*/
     { text: 'JavaScript', link: '/ui/javascript/' },
     { text: 'UI 框架', link: '/ui/uif/' },
+    { text: 'node.js', link: '/ui/node/' },
     { text: 'Vue.js', link: '/ui/vue/' },
     { text: 'React', link: '/ui/react/' },
     { text: 'Angular', link: '/ui/angular/' },
   ]},
   { text: '后端', items: [
-    { text: 'JAVA  基础', link: '/backend/java/' },
-    { text: 'Security OAUTH2', link: '/backend/oauth/' },
+    { text: 'JAVA 基础', link: '/backend/java/' },
+    { text: 'Security', link: '/backend/oauth/' },
     { text: '数据库', link: '/backend/database/' },
     { text: '单体架构', link: '/backend/sin/' },
     { text: '微服务架构', link: '/backend/cloud/' },
-    { text: '阿里巴巴', link: '/backend/alibaba/' },
+    { text: 'alibaba', link: '/backend/alibaba/' },
 
   ]},
   { text: 'Server', items: [

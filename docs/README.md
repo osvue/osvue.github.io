@@ -24,7 +24,7 @@ features:
 
 :::
 
-<p style="text-align:center;">MIT Licensed | Copyright © 2018-2020 不是第一</p>
+<p style="text-align:center;">MIT Licensed | Copyright © 2018-2021 不是第一</p>
 
 
 
