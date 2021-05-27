@@ -76,7 +76,7 @@ public class MyFilter implements Filter {
 编写监听器类
 
 ```java
-package com.mashibing.config;
+package com.osvue.config;
 
 import javax.servlet.http.HttpSessionEvent;
 import javax.servlet.http.HttpSessionListener;
@@ -102,7 +102,7 @@ public class MyHttpSessionListener implements HttpSessionListener {
 添加到配置类
 
 ```java
-package com.mashibing.config;
+package com.osvue.config;
 
 import org.springframework.boot.web.servlet.ServletListenerRegistrationBean;
 import org.springframework.context.annotation.Bean;
@@ -127,9 +127,9 @@ public class MyMvcConfig implements WebMvcConfigurer {
 添加控制层代码
 
 ```java
-package com.mashibing.controller;
+package com.osvue.controller;
 
-import com.mashibing.config.MyHttpSessionListener;
+import com.osvue.config.MyHttpSessionListener;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -397,7 +397,7 @@ private List<View> getCandidateViews(String viewName, Locale locale, List<MediaT
 /*如果您想保留 Spring Boot MVC 的功能，并且需要添加其他 MVC 配置（interceptor、formatter 和视图控制器等），可以添加自己的 WebMvcConfigurerAdapter 类型的 @Configuration 类，但不能带 @EnableWebMvc 注解。如果您想自定义 RequestMappingHandlerMapping、RequestMappingHandlerAdapter 或者 ExceptionHandlerExceptionResolver 实例，可以声明一个 WebMvcRegistrationsAdapter 实例来提供这些组件。
 如果您想完全掌控 Spring MVC，可以添加自定义注解了 @EnableWebMvc 的 @Configuration 配置类
 */
-package com.mashibing.config;
+package com.osvue.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;

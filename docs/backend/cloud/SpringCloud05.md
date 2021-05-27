@@ -39,7 +39,7 @@ provider方提供公用API包，Feign通过SpringMVC的注解来加载URI
 #### 创建一个接口 RegisterApi
 
 ```java
-package com.mashibing.UserAPI;
+package com.osvue.UserAPI;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -80,7 +80,7 @@ spring.application.name=user-provider
 
 ```xml
 		<dependency>
-				<groupId>com.mashibing.User-API</groupId>
+				<groupId>com.osvue.User-API</groupId>
 				<artifactId>User-API</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 		</dependency>
@@ -93,9 +93,9 @@ spring.application.name=user-provider
 实现Api的接口
 
 ```java
-package com.mashibing.UserProvider;
+package com.osvue.UserProvider;
 
-import com.mashibing.UserAPI.RegisterApi;
+import com.osvue.UserAPI.RegisterApi;
 @RestController
 public class UserController implements RegisterApi {
 
@@ -127,7 +127,7 @@ Pom.xml添加依赖
 
 ```xml
 		<dependency>
-				<groupId>com.mashibing.User-API</groupId>
+				<groupId>com.osvue.User-API</groupId>
 				<artifactId>User-API</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 		</dependency>
@@ -146,11 +146,11 @@ spring.application.name=consumer
 #### 创建Service接口
 
 ```java
-package com.mashibing.UserConsumer;
+package com.osvue.UserConsumer;
 
 import org.springframework.cloud.openfeign.FeignClient;
 
-import com.mashibing.UserAPI.RegisterApi;
+import com.osvue.UserAPI.RegisterApi;
 
 @FeignClient(name = "user-provider")
 public interface UserConsumerService extends RegisterApi {
@@ -162,7 +162,7 @@ public interface UserConsumerService extends RegisterApi {
 #### 创建Controller
 
 ```
-package com.mashibing.UserConsumer;
+package com.osvue.UserConsumer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -187,7 +187,7 @@ public class ConsumerController {
 #### 修改启动类
 
 ```
-package com.mashibing.UserConsumer;
+package com.osvue.UserConsumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

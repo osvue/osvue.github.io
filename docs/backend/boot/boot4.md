@@ -179,9 +179,9 @@ thymeleaf.html
 ThymeleafController.java
 
 ```java
-package com.mashibing.controller;
+package com.osvue.controller;
 
-import com.mashibing.entity.Person;
+import com.osvue.entity.Person;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -508,7 +508,7 @@ spring:
 添加WebMVCConfig.java代码
 
 ```java
-package com.mashibing.config;
+package com.osvue.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

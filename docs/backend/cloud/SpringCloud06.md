@@ -29,7 +29,7 @@ public interface ConsumerApi extends UserApi {
 #### Controller
 
 ```
-package com.mashibing.UserConsumer;
+package com.osvue.UserConsumer;
 
 import java.util.Collections;
 import java.util.HashMap;
@@ -40,7 +40,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mashibing.UserAPI.UserApi;
+import com.osvue.UserAPI.UserApi;
 
 @RestController
 public class MainController {
@@ -49,7 +49,7 @@ public class MainController {
 	ConsumerApi api;
 	
 	@Autowired
-	MashibingApi mapi;
+	osvueApi mapi;
 
 	@GetMapping("/alive")
 	public String alive() {
@@ -113,7 +113,7 @@ public class MainController {
 #### Provider
 
 ```
-package com.mashibing.UserProvider;
+package com.osvue.UserProvider;
 
 import java.util.Collections;
 import java.util.Map;
@@ -126,7 +126,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mashibing.UserAPI.UserApi;
+import com.osvue.UserAPI.UserApi;
 
 @RestController
 public class UserController implements UserApi {
@@ -201,13 +201,13 @@ public class UserController implements UserApi {
 #### 配置文件
 
 ```
-logging.level.com.mashibing.UserConsumer:debug
+logging.level.com.osvue.UserConsumer:debug
 ```
 
 #### 重写日志等级
 
 ```java
-package com.mashibing.UserConsumer;
+package com.osvue.UserConsumer;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -271,7 +271,7 @@ Hystrix是Netflix开源的一个类库，用于隔离远程系统、服务或者
 ### hystrix独立使用脱离spring cloud
 
 ```java
-package com.mashibing.UserConsumer;
+package com.osvue.UserConsumer;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
@@ -389,7 +389,7 @@ public interface ConsumerApi {
 #### 实现
 
 ```
-package com.mashibing.UserConsumer;
+package com.osvue.UserConsumer;
 
 import java.util.Map;
 

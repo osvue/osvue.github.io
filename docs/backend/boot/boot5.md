@@ -32,7 +32,7 @@ spring:
 3、测试类代码
 
 ```java
-package com.mashibing;
+package com.osvue;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -73,7 +73,7 @@ class DataApplicationTests {
 ​		5、JdbcTemplate 的自动配置原理是依赖 org.springframework.boot.autoconfigure.jdbc 包下的 org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration 类
 
 ```java
-package com.mashibing.contoller;
+package com.osvue.contoller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -233,7 +233,7 @@ spring:
 测试类，发现配置的参数没有生效
 
 ```java
-package com.mashibing;
+package com.osvue;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.junit.jupiter.api.Test;
@@ -269,7 +269,7 @@ class DataApplicationTests {
 需要定义druidDatasource的配置类，绑定参数
 
 ```java
-package com.mashibing.config;
+package com.osvue.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.springframework.boot.context.properties.ConfigurationProperties;
@@ -305,7 +305,7 @@ Druid数据源还具有监控的功能，并提供了一个web界面方便用户
 向DruidConfig中添加代码，配置druid监控管理台的servlet
 
 ```java
-package com.mashibing.config;
+package com.osvue.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;
@@ -390,7 +390,7 @@ spring:
 2、创建数据源枚举类
 
 ```java
-package com.mashibing.mult;
+package com.osvue.mult;
 
 public enum DataSourceType {
     REMOTE,
@@ -403,7 +403,7 @@ public enum DataSourceType {
 ​		创建一个数据源切换处理类，有对数据源变量的获取、设置和情况的方法，其中threadlocal用于保存某个线程共享变量。
 
 ```java
-package com.mashibing.mult;
+package com.osvue.mult;
 
 public class DynamicDataSourceContextHolder {
 
@@ -444,7 +444,7 @@ public class DynamicDataSourceContextHolder {
 ​		动态切换数据源主要依靠AbstractRoutingDataSource。创建一个AbstractRoutingDataSource的子类，重写determineCurrentLookupKey方法，用于决定使用哪一个数据源。这里主要用到AbstractRoutingDataSource的两个属性defaultTargetDataSource和targetDataSources。defaultTargetDataSource默认目标数据源，targetDataSources（map类型）存放用来切换的数据源。
 
 ```java
-package com.mashibing.mult;
+package com.osvue.mult;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 
@@ -475,7 +475,7 @@ public class DynamicDataSource extends AbstractRoutingDataSource {
 5、注入数据源
 
 ```java
-package com.mashibing.mult;
+package com.osvue.mult;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.ConfigurationProperties;
@@ -518,7 +518,7 @@ public class DataSourceConfig {
 ​		设置拦截数据源的注解，可以设置在具体的类上，或者在具体的方法上
 
 ```java
-package com.mashibing.mult;
+package com.osvue.mult;
 
 import java.lang.annotation.*;
 
@@ -538,7 +538,7 @@ public @interface DataSource {
 ​		通过拦截上面的注解，在其执行之前处理设置当前执行SQL的数据源的信息，CONTEXT_HOLDER.set(dataSourceType)这里的数据源信息从我们设置的注解上面获取信息，如果没有设置就是用默认的数据源的信息。
 
 ```java
-package com.mashibing.mult;
+package com.osvue.mult;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
@@ -555,7 +555,7 @@ import java.lang.reflect.Method;
 @Component
 public class DataSourceAspect {
 
-    @Pointcut("@annotation(com.mashibing.mult.DataSource)")
+    @Pointcut("@annotation(com.osvue.mult.DataSource)")
     public void dsPointCut() {
 
     }
@@ -581,7 +581,7 @@ public class DataSourceAspect {
 8、使用切换数据源注解
 
 ```java
-package com.mashibing.mult;
+package com.osvue.mult;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -617,7 +617,7 @@ public class EmpController {
 9、在启动项目的过程中会发生循环依赖的问题，直接修改启动类即可
 
 ```java
-package com.mashibing;
+package com.osvue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -662,7 +662,7 @@ spring:
 3、测试类
 
 ```java
-package com.mashibing;
+package com.osvue;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.junit.jupiter.api.Test;
@@ -694,7 +694,7 @@ class DataApplicationTests {
 4、创建实体类
 
 ```java
-package com.mashibing.entity;
+package com.osvue.entity;
 
 import java.sql.Date;
 import java.util.Objects;
@@ -832,9 +832,9 @@ public class Emp {
 5、配置Mapper接口类
 
 ```java
-package com.mashibing.mapper;
+package com.osvue.mapper;
 
-import com.mashibing.entity.Emp;
+import com.osvue.entity.Emp;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 
@@ -864,7 +864,7 @@ public interface EmpMapper {
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.mashibing.mapper.EmpMapper">
+<mapper namespace="com.osvue.mapper.EmpMapper">
 
     <select id="selectEmp" resultType="Emp">
     select * from emp
@@ -899,16 +899,16 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
 mybatis:
   mapper-locations: classpath:mybatis/mapper/*.xml
-  type-aliases-package: com.mashibing.entity
+  type-aliases-package: com.osvue.entity
 ```
 
 8、编写controller
 
 ```java
-package com.mashibing.contoller;
+package com.osvue.contoller;
 
-import com.mashibing.entity.Emp;
-import com.mashibing.mapper.EmpMapper;
+import com.osvue.entity.Emp;
+import com.osvue.mapper.EmpMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

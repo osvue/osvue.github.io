@@ -263,7 +263,7 @@ Eureka的元数据有两种：标准元数据和自定义元数据。
 元数据可以配置在eureka服务器和eureka的客户端上
 
 ```
-eureka.instance.metadata-map.dalao=mashibing
+eureka.instance.metadata-map.dalao=osvue
 
 ```
 
@@ -311,7 +311,7 @@ eureka.instance.metadata-map.dalao=mashibing
                             "serviceUpTimestamp": 1586331982283
                         },
                         "metadata": {
-                            "dalao": "mashibing666",
+                            "dalao": "osvue666",
                             "management.port": "9001",
                             "jmx.port": "10158"
                         },
@@ -354,7 +354,7 @@ eureka.instance.metadata-map.dalao=mashibing
                             "serviceUpTimestamp": 1586331637223
                         },
                         "metadata": {
-                            "dalao": "mashibing",
+                            "dalao": "osvue",
                             "management.port": "9000",
                             "jmx.port": "10000"
                         },

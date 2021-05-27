@@ -119,7 +119,7 @@ Help -> EclipseMarketplace
           <groupId>org.springframework.boot</groupId>  
           <artifactId>spring-boot-maven-plugin</artifactId>  
                 <configuration>  
-                    <mainClass>com.mashibing.MyApp</mainClass>  
+                    <mainClass>com.osvue.MyApp</mainClass>  
                 </configuration>  
             </plugin>  
         </plugins>

@@ -1,6 +1,8 @@
 ---
-title: blog重构思路2.0
+autoGroup-1: blog
+title: blog重构思路2.0 
 ---
+
  
 ## 一、why
 
@@ -39,6 +41,8 @@ title: blog重构思路2.0
     * mybatis
     * jpa
     * jdbc template
+  * ioutil
+    * poi
 - database
 
   * MYSQL
