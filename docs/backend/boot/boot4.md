@@ -1,4 +1,9 @@
-# thymeleaf模板引擎的使用
+---
+autoGroup-1: Spring Boot-1
+title: thymeleaf模板引擎的使用
+---
+
+## thymeleaf模板引擎的使用
 
 ​		在早期开发的时候，我们完成的都是静态页面也就是html页面，随着时间轴的发展，慢慢的引入了jsp页面，当在后端服务查询到数据之后可以转发到jsp页面，可以轻松的使用jsp页面来实现数据的显示及交互，jsp有非常强大的功能，但是，在使用springboot的时候，整个项目是以jar包的方式运行而不是war包，而且还嵌入了tomcat容器，因此，在默认情况下是不支持jsp页面的。如果直接以纯静态页面的方式会给我们的开发带来很大的麻烦，springboot推荐使用模板引擎。
 
@@ -6,7 +11,7 @@
 
 ![img](https://img2018.cnblogs.com/blog/1418974/201908/1418974-20190807163934465-53767030.png)
 
-### 1、thymeleaf的介绍
+## 1、thymeleaf的介绍
 
 官网地址：https://www.thymeleaf.org/
 
@@ -66,7 +71,7 @@ public class ThymeleafProperties {
 	private boolean cache = true;
 ```
 
-### 2、thymeleaf使用模板
+## 2、thymeleaf使用模板
 
 在java代码中写入如下代码：
 
@@ -91,7 +96,7 @@ html页面中写入如下代码：
 </html>
 ```
 
-### 3、thymeleaf的表达式语法
+## 3、thymeleaf的表达式语法
 
 ```tex
 Simple expressions:
@@ -126,9 +131,9 @@ Special tokens:
 	No-Operation: _
 ```
 
-### 4、thymeleaf实例演示
+## 4、thymeleaf实例演示
 
-#### 		1、th的常用属性值
+### 		1、th的常用属性值
 
 ​		一、**th:text** ：设置当前元素的文本内容，相同功能的还有**th:utext**，两者的区别在于前者不会转义html标签，后者会。优先级不高：order=7
 
@@ -203,7 +208,7 @@ public class ThymeleafController {
 }
 ```
 
-#### 		2、标准表达式语法
+### 		2、标准表达式语法
 
 ​		**${...} 变量表达式，Variable Expressions**
 
@@ -404,7 +409,7 @@ th:include：将代码块片段包含的内容插入到使用了th:include的HTM
 </html>
 ```
 
-### 5、国际化的配置
+## 5、国际化的配置
 
 ​		在很多应用场景下，我们需要实现页面的国际化，springboot对国际化有很好的支持， 下面来演示对应的效果。	
 

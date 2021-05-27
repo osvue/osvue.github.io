@@ -1,8 +1,12 @@
-# springboot配置数据源
+---
+autoGroup-1: Spring Boot-1
+title: springboot配置数据源
+---
+## springboot配置数据源
 
-​		Spring Framework 为 SQL 数据库提供了广泛的支持。从直接使用 JdbcTemplate 进行 JDBC 访问到完全的对象关系映射（object relational mapping）技术，比如 Hibernate。Spring Data 提供了更多级别的功能，直接从接口创建的 Repository 实现，并使用了约定从方法名生成查询。
+* Spring Framework 为 SQL 数据库提供了广泛的支持。从直接使用 JdbcTemplate 进行 JDBC 访问到完全的对象关系映射（object relational mapping）技术，比如 Hibernate。Spring Data 提供了更多级别的功能，直接从接口创建的 Repository 实现，并使用了约定从方法名生成查询。
 
-### 1、JDBC
+## 1、JDBC
 
 1、创建项目，导入需要的依赖
 
@@ -121,7 +125,7 @@ public class JDBCController {
 }
 ```
 
-### 2、自定义数据源DruidDataSource
+## 2、自定义数据源DruidDataSource
 
 通过源码查看DataSourceAutoConfiguration.java
 
@@ -366,7 +370,7 @@ public class DruidConfig {
 }
 ```
 
-### 3、springboot配置多数据源并动态切换
+## 3、springboot配置多数据源并动态切换
 
 ​		DataSource是和线程绑定的，动态数据源的配置主要是通过继承AbstractRoutingDataSource类实现的，实现在AbstractRoutingDataSource类中的 protected Object determineCurrentLookupKey()方法来获取数据源，所以我们需要先创建一个多线程线程数据隔离的类来存放DataSource，然后在determineCurrentLookupKey()方法中通过这个类获取当前线程的DataSource，在AbstractRoutingDataSource类中，DataSource是通过Key-value的方式保存的，我们可以通过ThreadLocal来保存Key，从而实现数据源的动态切换。
 
@@ -634,7 +638,7 @@ public class SpringbootDataApplication {
 
 
 
-### 4、springboot整合mybatis
+## 4、springboot整合mybatis
 
 1、导入mybatis的依赖
 

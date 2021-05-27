@@ -1,8 +1,11 @@
-# 开发排除jar冲突 
-*  Spring Boot
- 
- - **开发排除jar冲突**
-```html
+---
+autoGroup-3: dev
+title: 开发
+---
+
+##  开发排除jar冲突
+
+```xml
 <!-- SpringBoot整合zookeeper客户端 -->
 <dependency>
     <groupId>org.springframework.cloud</groupId>

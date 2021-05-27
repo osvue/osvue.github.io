@@ -21,7 +21,9 @@ module.exports = {
     titleMode: "uppercase",
     // 配置自动折叠 用于文件多的情况
     collapseList: [
-      "/ui/javascript/"
+      "/ui/javascript/",
+      "/backend/boot/",
+      "/backend/cloud/"
     ]
   }
 };

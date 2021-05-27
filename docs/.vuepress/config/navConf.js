@@ -1,16 +1,16 @@
 module.exports = [
-  { text: '前端UI', items: [
+  { text: 'UI', items: [
    /* { text: 'HTML', link: '/ui/html/' },
     { text: 'CSS', link: '/ui/css/' },*/
-    { text: 'JavaScript', link: '/ui/javascript/' },
+    { text: 'js', link: '/ui/javascript/' },
     // bootstrap  layui easyui ....
     { text: 'css', link: '/ui/css/' },
-    { text: 'node.js', link: '/ui/node/' },
-    { text: 'Vue.js', link: '/ui/vue/' },
+    { text: 'node', link: '/ui/node/' },
+    { text: 'Vue', link: '/ui/vue/' },
     { text: 'React', link: '/ui/react/' },
     { text: 'jquery', link: '/ui/jquery/' },
   ]},
-  { text: 'JAVA', items: [
+  { text: 'Java', items: [
      
     { text: 'base', link: '/backend/java/' },
     { text: 'spring', link: '/backend/spring/' },
@@ -20,8 +20,8 @@ module.exports = [
 
     { text: 'security', link: '/backend/oauth/' },
     { text: 'database', link: '/backend/database/' },
-    { text: '单体架构', link: '/backend/single/' },
-    { text: 'ioutil', link: '/backend/impexp/' }
+    // { text: '单体架构', link: '/backend/single/' },
+    { text: 'baseutil', link: '/backend/impexp/' }
     
 
   ]},
@@ -30,13 +30,13 @@ module.exports = [
     { text: 'Docker', link: '/os/docker/' },
     { text: 'Nginx', link: '/os/nginx/' },
   ]},
-  { text: 'UTILS', items: [
-    { text: 'JAVA UTIL', link: '/tools/javautil/' },
-    { text: 'HTML UTIL', link: '/tools/htmlutil/' },
+  { text: 'Utils', items: [
+    { text: 'JAVA', link: '/tools/javautil/' },
+    { text: 'JS', link: '/tools/htmlutil/' },
 
   ]},
 
-  { text: '开发工具', items: [
+  { text: 'DevTool', items: [
     { text: 'IDEA', link: '/devtool/idea/' },
     { text: 'GIT', link: '/devtool/git/' },
 	{ text: 'Windows', link: '/devtool/win/' },
@@ -46,8 +46,8 @@ module.exports = [
 
 
   ]},
-   {text: '关于自己',items: [
-    { text: '改善重构', link: '/aboutme/blogs/' },
+   {text: 'About',items: [
+    { text: 'blog', link: '/aboutme/blogs/' },
     { text: '联系我', link: '/aboutme/me/' },
     { text: 'GitHub', link: 'https://github.com/osvue' },
     { text: 'Gitee', link: 'https://gitee.com/osvue' },

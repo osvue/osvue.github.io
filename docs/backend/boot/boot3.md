@@ -1,5 +1,9 @@
-# springboot配置文件详解
+---
+autoGroup-1: Spring Boot-1
+title: springboot配置文件详解
+---
 
+## 配置文件
 ​		在之前的项目开发中，我们可以使用xml,properties进行相关的配置，这种配置方式比较简单，但是在应对复杂的商业需求下，多环境和编程化的配置无法得到满足，因此springboot为我们提供了YAML的配置方式丰富功能和简化开发。
 
 ### ·1、Properties配置详解

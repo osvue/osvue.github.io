@@ -1,5 +1,6 @@
 ---
-title: VIEWS
+autoGroup-1: MySQL
+title:  mysql之视图2
 ---
 
 ## 概念

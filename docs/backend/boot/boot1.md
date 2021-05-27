@@ -1,4 +1,8 @@
-# Boot初体验
+---
+autoGroup-1: Spring Boot-1
+title: Boot初体验
+---
+## Boot初体验
 
 - MVC架构思想
 - 使用STS构建SpringBoot项目

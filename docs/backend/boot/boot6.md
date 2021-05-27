@@ -1,8 +1,12 @@
 ---
+autoGroup-1: Spring Boot-1
+title: boot选择启动某个配置文件
+---
+---
 title: boot选择启动某个配置文件
 ---
 
-# boot选择启动某个配置文件
+## boot选择启动某个配置文件
 
 ::: tip
 Spring Boot配置文件提供了隔离一部分应用程序配置的方法，并可使其仅在某指定环境可用。任何有@Component和@Configuration注解的Bean都用@profile来指定加载哪个配置文件。如：
