@@ -22,6 +22,7 @@ module.exports = {
     // 配置自动折叠 用于文件多的情况
     collapseList: [
       "/ui/javascript/",
+      "/ui/vue/",
       "/backend/boot/",
       "/backend/cloud/"
     ]

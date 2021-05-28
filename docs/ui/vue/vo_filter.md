@@ -1,4 +1,10 @@
-# Vue Filter
+---
+autoGroup-1: Vue_dev
+title: 过滤器
+---
+
+
+## Vue Filter
 ## vue进阶 过滤器
 ```html
  <!-- 过滤器用法：值 | 过滤器 -->

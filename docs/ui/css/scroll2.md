@@ -1,8 +1,16 @@
+---
+autoGroup-1: 乱七八糟
+title: scrollbar 2.0
+---
+## 第二种滚动条scrollbar
 
-
-# 第二种方式
-
+### 页面引入html界面
+```html
 <embed src="./index.html"  type="text/html" width="800px" height="600px">
+
+```
+
+### 自定义滚动条图片
 
 ```html
 

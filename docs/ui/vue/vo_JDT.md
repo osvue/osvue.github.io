@@ -1,4 +1,10 @@
-# nprogress页面加载进度条
+---
+autoGroup-1: Vue_dev
+title: 页面加载进度条
+---
+
+
+## nprogress页面加载进度条
 
 ##### 1、安装$ npm install --save nprogress 或者$ yarn add nprogress
 **用法NProgress.start();NProgress.done();**

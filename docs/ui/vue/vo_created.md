@@ -1,4 +1,8 @@
-# 生命周期
+---
+autoGroup-1: Vue_dev
+title: 生命周期
+---
+## 生命周期
 
 ```js
 var vue = new Vue({

@@ -1,4 +1,9 @@
-# watch&computed
+---
+autoGroup-1: Vue_dev
+title: watch&computed
+---
+
+## watch&computed
 ###  init
 ```html
   <div id="app">

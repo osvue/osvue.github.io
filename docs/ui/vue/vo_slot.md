@@ -1,3 +1,8 @@
+---
+autoGroup-1: Vue_dev
+title: Slot
+---
+
 # v-slot  
 ## v-slot 用法: v-slot : slotname   &     #slotname                 
 ##  slot 用法: slot="slotname"

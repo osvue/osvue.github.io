@@ -1,4 +1,9 @@
-# VUEX
+---
+autoGroup-1: Vue_dev
+title: VUEX
+---
+
+## VUEX
 ```javascript
 
 /**

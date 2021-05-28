@@ -1,4 +1,9 @@
-# VUE 组件
+---
+autoGroup-1: Vue_dev
+title: VUE 组件
+---
+
+
 
 ## 创建VUE组件
 ```html

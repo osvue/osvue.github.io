@@ -1,4 +1,7 @@
-# VUE INIT
+---
+autoGroup-1: Vue_dev
+title: 语法,函数
+---
 ## vue
 **001 - 简单demo**
 
@@ -8,7 +11,7 @@
     el: '#app', // 表示我们new的这个vue实例，控制页面上的哪个区域
     data: { // data是MVVM中的m，专门存放每个页面的数据。
       msg: 'hello vue',
-      name: '稽哥'
+      name: 'lusifer'
     }
   })
 ```
