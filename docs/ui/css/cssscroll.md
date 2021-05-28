@@ -1,5 +1,5 @@
 ---
-autoGroup-1: 乱七八糟
+autoGroup-1: 层叠样式表
 title: 滚动条scrollbar
 ---
 

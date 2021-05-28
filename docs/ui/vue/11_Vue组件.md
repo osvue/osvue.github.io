@@ -31,6 +31,7 @@ typora-root-url: images
 <img src="/image-20200325230021996.png" style="float:left; width:500px;"/>
 
 ```html
+
 <body>
     <div id="app">
         <my-component></my-component>

@@ -1,7 +1,6 @@
-
 ---
 autoGroup-1: MySQL
-title:  mysql之order
+title:  mysql之null
 ---
 
 
@@ -28,16 +27,3 @@ mysql> select *,age is null as agenull from test_user order by agenull,age;
 
 - * mysql> select * from test_user order by isnull(age),age;
 ```
-## 
-
-## 
-
-## 
-## 
-## 
-## 
-## 
-
-## 
-## 
-## 

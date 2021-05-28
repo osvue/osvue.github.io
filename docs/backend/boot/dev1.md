@@ -1,6 +1,6 @@
 ---
-autoGroup-3: dev
-title: 开发
+autoGroup-3: 开发整合
+title: 排除jar冲突
 ---
 
 ##  开发排除jar冲突

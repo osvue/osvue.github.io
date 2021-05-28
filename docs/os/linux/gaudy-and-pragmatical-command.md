@@ -9,7 +9,13 @@ cp test.txt{,.bak}
 ls -al test.txt* # 验证
 ```
 
+## 启动
 
+```bash
+#! /bin/bash
+nohup /usr/java/jdk1.8.0_161/bin/java -Dfile.encoding=UTF-8 -jar znsj_zy-1.0.jar --spring.config.location=application.properties &>./lg.txt &
+tail -f lg.txt
+```
 
 ## 创建文件夹
 

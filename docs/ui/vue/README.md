@@ -4,6 +4,8 @@ title: VUE.JS
 ![vue](/img/vues.png)
 ## MVVN 
 
+## Vue 渐进式 JavaScript 框架
+
 ## icon 转换网站 `https://www.easyicon.net/covert/`
 
 ## 前后台分离
@@ -14,11 +16,9 @@ title: VUE.JS
 
 ## 商业开发
 
-## 安哥拉 ~~~~~~~~~~~~~~~~~~~~~~ 学不过来啦 ~~~ OMG,停更*****
-
 ## vue 介绍
 
-:::
+::: tip
 
 Vue是目前最火（在国内）的一个前端框架，与Angular.js、React.js并成为前端三大框架。
 

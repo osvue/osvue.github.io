@@ -33,7 +33,7 @@ module.exports = [
   { text: 'Utils', items: [
     { text: 'JAVA', link: '/tools/javautil/' },
     { text: 'JS', link: '/tools/htmlutil/' },
-
+    { text: 'EXT', link: '/tools/ext/' }
   ]},
 
   { text: 'DevTool', items: [

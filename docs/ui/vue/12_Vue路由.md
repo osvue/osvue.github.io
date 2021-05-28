@@ -12,8 +12,7 @@ typora-root-url: images
 
 ### 路由的基本使用
 
-<img src="/341820-20160721065510091-544517297.png" style="float:left; width:450px;"/>
-
+ 
 **第一步 : 创建组件**
 
 ```vue

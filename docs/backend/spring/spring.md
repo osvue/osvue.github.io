@@ -1,3 +1,8 @@
+---
+autoGroup-1: Spring
+title:  Spring核心思想
+---
+
 #  Spring核心思想
 
 * ioc
