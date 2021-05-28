@@ -1,8 +1,4 @@
 ---
-autoGroup-2: Hibernate
-title:  基础语法
----
----
 autoGroup-2: SpringMVC
 title:  上传文件
 ---

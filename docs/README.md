@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/11.svg
 actionText: QUICKSTART
-actionLink: /backend/sin/
+actionLink: /backend/single/
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。

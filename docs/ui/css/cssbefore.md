@@ -1,6 +1,6 @@
 ---
 autoGroup-1: 层叠样式表
-title: cssTable比例
+title: 伪类
 ---
 
 ## 伪类
