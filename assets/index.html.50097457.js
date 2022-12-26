@@ -1,0 +1,1 @@
+const e={key:"v-7bf9a8bb",path:"/web/ajax/",title:"三驾马车",lang:"zh-CN",frontmatter:{title:"三驾马车"},excerpt:"",headers:[{level:2,title:"60util",slug:"_60util",children:[]}],filePathRelative:"web/ajax/README.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

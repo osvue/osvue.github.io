@@ -1,0 +1,1 @@
+const e={key:"v-0d649461",path:"/spring/springSecurity/10.html",title:"@EnableOAuth2Sso",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"客户端创建",slug:"客户端创建",children:[]}],filePathRelative:"spring/springSecurity/10.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

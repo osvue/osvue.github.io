@@ -1,0 +1,1 @@
+const e={key:"v-34632195",path:"/database/mysql/create.html",title:"create",lang:"zh-CN",frontmatter:{title:"create"},excerpt:"",headers:[{level:2,title:"SQL根据现有表新建表",slug:"sql根据现有表新建表",children:[]}],filePathRelative:"database/mysql/create.md",git:{updatedTime:1632365166e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

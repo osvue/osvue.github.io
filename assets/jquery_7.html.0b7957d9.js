@@ -1,0 +1,1 @@
+const e={key:"v-45e18de6",path:"/web/jquery/jquery_7.html",title:"获取文件大小",lang:"zh-CN",frontmatter:{"autoGroup-1":"jquery",title:"获取文件大小"},excerpt:"",headers:[{level:2,title:"倒计时",slug:"倒计时",children:[]}],filePathRelative:"web/jquery/jquery_7.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

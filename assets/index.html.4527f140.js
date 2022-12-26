@@ -1,0 +1,1 @@
+const e={key:"v-bd119d2a",path:"/three/zt/",title:"杂谈",lang:"zh-CN",frontmatter:{title:"杂谈"},excerpt:"",headers:[{level:2,title:"一些",slug:"一些",children:[]}],filePathRelative:"three/zt/README.md",git:{updatedTime:1655805207e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:2}]}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-7f65dce8",path:"/web/ajax/ajax_sec.html",title:"ajax加密",lang:"zh-CN",frontmatter:{title:"ajax加密"},excerpt:"",headers:[{level:2,title:"禁止from disk cache，禁止浏览器缓存问题",slug:"禁止from-disk-cache-禁止浏览器缓存问题",children:[]}],filePathRelative:"web/ajax/ajax_sec.md",git:{updatedTime:1669887033e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:2}]}};export{e as data};

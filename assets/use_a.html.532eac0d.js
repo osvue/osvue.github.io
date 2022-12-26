@@ -1,0 +1,1 @@
+const e={key:"v-108e8997",path:"/os/nginx/use_a.html",title:"反向代理",lang:"zh-CN",frontmatter:{"autoGroup-1":"Nginx Project",title:"反向代理"},excerpt:"",headers:[{level:3,title:"路径匹配细节",slug:"路径匹配细节",children:[]}],filePathRelative:"os/nginx/use_a.md",git:{updatedTime:1631954267e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:2}]}};export{e as data};

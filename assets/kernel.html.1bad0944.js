@@ -1,0 +1,1 @@
+const e={key:"v-8759e1a2",path:"/os/linux/kernel.html",title:"升级内核",lang:"zh-CN",frontmatter:{title:"升级内核"},excerpt:"",headers:[],filePathRelative:"os/linux/kernel.md",git:{updatedTime:1651054024e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

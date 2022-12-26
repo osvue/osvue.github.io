@@ -1,0 +1,1 @@
+const e={key:"v-0a10115f",path:"/java/base/java_null.html",title:"Optional",lang:"zh-CN",frontmatter:{title:"Optional"},excerpt:"",headers:[{level:2,title:"null point exception",slug:"null-point-exception",children:[]}],filePathRelative:"java/base/java_null.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

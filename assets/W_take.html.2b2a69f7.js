@@ -1,0 +1,1 @@
+const e={key:"v-01e4328a",path:"/hhh/W_take.html",title:"take",lang:"zh-CN",frontmatter:{title:"take"},excerpt:"",headers:[{level:3,title:"喜欢听好听话",slug:"喜欢听好听话",children:[]}],filePathRelative:"hhh/W_take.md",git:{updatedTime:1669365893e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:10},{name:"hanzq",email:"hzqq110@163.com",commits:3}]}};export{e as data};

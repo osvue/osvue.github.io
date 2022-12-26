@@ -1,0 +1,1 @@
+const e={key:"v-ebc2b756",path:"/ui/javascript/cookie.html",title:"cookie",lang:"zh-CN",frontmatter:{title:"cookie"},excerpt:"",headers:[{level:2,title:"cookie 操作",slug:"cookie-操作",children:[]}],filePathRelative:"ui/javascript/cookie.md",git:{updatedTime:1631093497e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

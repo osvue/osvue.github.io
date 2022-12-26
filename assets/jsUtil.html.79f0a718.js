@@ -1,0 +1,1 @@
+const t={key:"v-bcde2026",path:"/three/javautil/jsUtil.html",title:"60util",lang:"zh-CN",frontmatter:{title:"60util"},excerpt:"",headers:[{level:2,title:"60util",slug:"_60util",children:[]}],filePathRelative:"three/javautil/jsUtil.md",git:{updatedTime:1629251017e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{t as data};

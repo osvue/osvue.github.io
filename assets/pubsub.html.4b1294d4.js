@@ -1,0 +1,1 @@
+const e={key:"v-f3fe61e0",path:"/os/redis/pubsub.html",title:"pub_sub",lang:"zh-CN",frontmatter:{title:"pub_sub"},excerpt:"",headers:[{level:3,title:"发布订阅",slug:"发布订阅",children:[]}],filePathRelative:"os/redis/pubsub.md",git:{updatedTime:1669798639e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

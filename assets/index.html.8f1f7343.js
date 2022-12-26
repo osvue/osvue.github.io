@@ -1,0 +1,1 @@
+import{o as a,a as t,b as s,e as o}from"./app.8935f5f1.js";const e={},r={class:"custom-container tip"},n=[s("p",{class:"custom-container-title"},"TIP",-1),s("p",null,[o("Volatile "),s("br"),o(" ThreadLocal")],-1)];e.render=function(s,o){return a(),t("div",r,n)};export{e as default};

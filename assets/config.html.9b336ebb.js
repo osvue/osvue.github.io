@@ -1,0 +1,1 @@
+const e={key:"v-3978d90e",path:"/mapper/jpa/config.html",title:"config",lang:"zh-CN",frontmatter:{title:"config"},excerpt:"",headers:[],filePathRelative:"mapper/jpa/config.md",git:{updatedTime:1658912878e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

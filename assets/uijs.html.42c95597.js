@@ -1,0 +1,1 @@
+const t={key:"v-4565db8d",path:"/java/msms/uijs.html",title:"js",lang:"zh-CN",frontmatter:{title:"js"},excerpt:"",headers:[],filePathRelative:"java/msms/uijs.md",git:{updatedTime:1665564642e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

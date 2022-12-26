@@ -1,0 +1,1 @@
+const t={key:"v-365acb06",path:"/hhh/tem.html",title:"聚光灯",lang:"zh-CN",frontmatter:{title:"聚光灯"},excerpt:"",headers:[],filePathRelative:"hhh/tem.md",git:{updatedTime:1655891507e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:2}]}};export{t as data};

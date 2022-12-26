@@ -1,0 +1,1 @@
+const e={key:"v-87c2cf84",path:"/os/linux/ssh.html",title:"ssh",lang:"zh-CN",frontmatter:{title:"ssh"},excerpt:"",headers:[{level:2,title:"ssh远程",slug:"ssh远程",children:[]}],filePathRelative:"os/linux/ssh.md",git:{updatedTime:1653479381e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

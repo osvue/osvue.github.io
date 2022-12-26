@@ -1,0 +1,1 @@
+const t={key:"v-565b0f6a",path:"/spring/oauth2/",title:"oauth2.0",lang:"zh-CN",frontmatter:{title:"oauth2.0"},excerpt:"",headers:[],filePathRelative:"spring/oauth2/README.md",git:{updatedTime:1658370008e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

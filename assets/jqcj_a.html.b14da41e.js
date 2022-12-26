@@ -1,0 +1,1 @@
+const e={key:"v-7cf3116c",path:"/web/jquery/jqcj_a.html",title:"jq插件",lang:"zh-CN",frontmatter:{title:"jq插件"},excerpt:"",headers:[],filePathRelative:"web/jquery/jqcj_a.md",git:{updatedTime:1634892387e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

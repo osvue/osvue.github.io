@@ -1,0 +1,1 @@
+const e={key:"v-be5b2c54",path:"/spring/alibaba/sentinel_a_res.html",title:"Resources属性说明",lang:"zh-CN",frontmatter:{"autoGroup-3":"Sentinel",title:"Resources属性说明"},excerpt:"",headers:[],filePathRelative:"spring/alibaba/sentinel_a_res.md",git:{updatedTime:1632054856e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

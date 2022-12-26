@@ -1,0 +1,1 @@
+const t={key:"v-2f7233cc",path:"/database/mysqlty/mysqla_transtion.html",title:"事务",lang:"zh-CN",frontmatter:{title:"事务"},excerpt:"",headers:[],filePathRelative:"database/mysqlty/mysqla_transtion.md",git:{updatedTime:1669798639e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1},{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{t as data};

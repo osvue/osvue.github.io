@@ -1,0 +1,1 @@
+const e={key:"v-6bd4f90c",path:"/os/nginx/inner_args.html",title:"内置变量",lang:"zh-CN",frontmatter:{title:"内置变量"},excerpt:"",headers:[{level:2,title:"变量",slug:"变量",children:[]}],filePathRelative:"os/nginx/inner_args.md",git:{updatedTime:163193699e4,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

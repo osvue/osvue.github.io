@@ -1,0 +1,1 @@
+const e={key:"v-1ef3dcf4",path:"/spring/springBoot/dev3%20copy%205.html",title:"Thymeleaf",lang:"zh-CN",frontmatter:{"autoGroup-3":"开发整合",title:"Thymeleaf"},excerpt:"",headers:[],filePathRelative:"spring/springBoot/dev3 copy 5.md",git:{updatedTime:1668498167e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:2}]}};export{e as data};

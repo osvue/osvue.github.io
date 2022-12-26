@@ -1,0 +1,1 @@
+const t={key:"v-a66b025e",path:"/spring/springBoot/vu_bob_logback.html",title:"logback",lang:"zh-CN",frontmatter:{"autoGroup-5":"boot",title:"logback"},excerpt:"",headers:[],filePathRelative:"spring/springBoot/vu_bob_logback.md",git:{updatedTime:1655805207e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

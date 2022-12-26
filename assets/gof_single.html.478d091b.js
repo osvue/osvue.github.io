@@ -1,0 +1,1 @@
+const e={key:"v-a28a35f4",path:"/java/base/gof_single.html",title:"单例",lang:"zh-CN",frontmatter:{"autoGroup-1":"设计模式",title:"单例"},excerpt:"",headers:[{level:2,title:"单例设计模式",slug:"单例设计模式",children:[]}],filePathRelative:"java/base/gof_single.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-e29df7c0",path:"/three/poi/poi4.html",title:"POI各种样式",lang:"zh-CN",frontmatter:{"autoGroup-3":"POI",title:"POI各种样式"},excerpt:"",headers:[{level:2,title:"poi",slug:"poi",children:[]}],filePathRelative:"three/poi/poi4.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

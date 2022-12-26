@@ -1,0 +1,1 @@
+const e={key:"v-7afe980c",path:"/devtool/chrome/",title:"开篇",lang:"zh-CN",frontmatter:{title:"开篇"},excerpt:"",headers:[{level:2,title:"介绍",slug:"介绍",children:[]},{level:2,title:"参考资料",slug:"参考资料",children:[]}],filePathRelative:"devtool/chrome/README.md",git:{updatedTime:1587545576e3,contributors:[{name:"Lusifer",email:"hzqq110@163.com",commits:1}]}};export{e as data};

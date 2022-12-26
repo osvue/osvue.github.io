@@ -1,0 +1,1 @@
+const t={key:"v-a3431744",path:"/spring/springBoot/q2_auto_config.html",title:"自动装配原理",lang:"zh-CN",frontmatter:{"autoGroup-2":"源码解析",title:"自动装配原理"},excerpt:"",headers:[],filePathRelative:"spring/springBoot/q2_auto_config.md",git:{updatedTime:1630915668e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-c5f05562",path:"/aboutme/vs/",title:"学识",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"情绪",slug:"情绪",children:[]}],filePathRelative:"aboutme/vs/README.md",git:{updatedTime:1631241108e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

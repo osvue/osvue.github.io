@@ -1,0 +1,1 @@
+const e={key:"v-be0687c2",path:"/spring/spring/sym_mca.html",title:"MCA",lang:"zh-CN",frontmatter:{"autoGroup-2":"源码",title:"MCA"},excerpt:"",headers:[{level:2,title:"循环依赖",slug:"循环依赖",children:[]}],filePathRelative:"spring/spring/sym_mca.md",git:{updatedTime:1630485056e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:2}]}};export{e as data};

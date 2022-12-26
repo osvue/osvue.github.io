@@ -1,0 +1,1 @@
+const t={key:"v-729ca982",path:"/ui/javascript/navigator.html",title:"navigator",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Navigator对象",slug:"navigator对象",children:[]}],filePathRelative:"ui/javascript/navigator.md",git:{updatedTime:1631093497e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{t as data};

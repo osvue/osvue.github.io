@@ -1,0 +1,1 @@
+const e={key:"v-1d53be40",path:"/database/mysqlty/mysqla_fqa.html",title:"分区表的底层原理",lang:"zh-CN",frontmatter:{title:"分区表的底层原理"},excerpt:"",headers:[],filePathRelative:"database/mysqlty/mysqla_fqa.md",git:{updatedTime:1669798639e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1},{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

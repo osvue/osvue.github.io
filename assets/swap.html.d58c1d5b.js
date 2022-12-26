@@ -1,0 +1,1 @@
+const e={key:"v-6256b059",path:"/os/linux/swap.html",title:"swap",lang:"zh-CN",frontmatter:{title:"swap"},excerpt:"",headers:[{level:3,title:"swap 什么时候使用",slug:"swap-什么时候使用",children:[]}],filePathRelative:"os/linux/swap.md",git:{updatedTime:1651054024e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

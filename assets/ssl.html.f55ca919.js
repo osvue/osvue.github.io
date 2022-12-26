@@ -1,0 +1,1 @@
+import{o as a,a as s,F as l,b as e,e as n}from"./app.8935f5f1.js";const r={},t=e("h3",{id:"ssl",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ssl","aria-hidden":"true"},"#"),n(" ssl")],-1),o=e("ul",null,[e("li",null,"http://aaa.com:80"),e("li",null,"https://aaa.com:80 - 443")],-1);r.render=function(e,n){return a(),s(l,null,[t,o],64)};export{r as default};

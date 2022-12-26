@@ -1,0 +1,1 @@
+const e={key:"v-3bfc6148",path:"/ui/css/sid_boxmodel.html",title:"box model",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"transform",slug:"transform",children:[]}],filePathRelative:"ui/css/sid_boxmodel.md",git:{updatedTime:1624612316e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:2}]}};export{e as data};

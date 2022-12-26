@@ -1,0 +1,1 @@
+const e={key:"v-f25b0bec",path:"/java/maven/mvn_ass.html",title:"assembly",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"打包插件",slug:"打包插件",children:[]}],filePathRelative:"java/maven/mvn_ass.md",git:{updatedTime:1631780604e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

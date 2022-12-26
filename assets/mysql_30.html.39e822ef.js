@@ -1,0 +1,1 @@
+const t={key:"v-01247788",path:"/database/mysqlty/mysql_30.html",title:"调优30条",lang:"zh-CN",frontmatter:{title:"调优30条"},excerpt:"",headers:[],filePathRelative:"database/mysqlty/mysql_30.md",git:{updatedTime:1669798639e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:3}]}};export{t as data};

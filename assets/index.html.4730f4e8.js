@@ -1,0 +1,1 @@
+const e={key:"v-1db28c54",path:"/three/markdown/",title:"开篇",lang:"zh-CN",frontmatter:{title:"开篇"},excerpt:"",headers:[{level:2,title:"md",slug:"md",children:[]}],filePathRelative:"three/markdown/README.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

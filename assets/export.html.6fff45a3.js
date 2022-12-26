@@ -1,0 +1,1 @@
+const e={key:"v-aa9018cc",path:"/ui/node/export.html",title:"exports与module.export",lang:"zh-CN",frontmatter:{"autoGroup-1":"NodeJs",title:"exports与module.export"},excerpt:"",headers:[],filePathRelative:"ui/node/export.md",git:{updatedTime:162330483e4,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

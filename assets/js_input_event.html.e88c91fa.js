@@ -1,0 +1,1 @@
+const t={key:"v-28a9ccac",path:"/ui/javascript/js_input_event.html",title:"js事件",lang:"zh-CN",frontmatter:{title:"js事件"},excerpt:"",headers:[{level:3,title:"input事件",slug:"input事件",children:[]}],filePathRelative:"ui/javascript/js_input_event.md",git:{updatedTime:1662102268e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

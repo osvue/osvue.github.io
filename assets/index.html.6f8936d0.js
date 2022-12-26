@@ -1,0 +1,1 @@
+const e={key:"v-da2c3810",path:"/java/maven/",title:"maven",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"仓库地址",slug:"仓库地址",children:[]}],filePathRelative:"java/maven/README.md",git:{updatedTime:1631780604e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

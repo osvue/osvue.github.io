@@ -1,0 +1,1 @@
+const e={key:"v-13174737",path:"/mapper/jpa/local.html",title:"本地查询",lang:"zh-CN",frontmatter:{title:"本地查询"},excerpt:"",headers:[{level:2,title:"use Local sql",slug:"use-local-sql",children:[]}],filePathRelative:"mapper/jpa/local.md",git:{updatedTime:165899996e4,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

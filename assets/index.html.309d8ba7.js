@@ -1,0 +1,1 @@
+const e={key:"v-20dc503d",path:"/os/elk/",title:"开篇",lang:"zh-CN",frontmatter:{title:"开篇"},excerpt:"",headers:[],filePathRelative:"os/elk/README.md",git:{updatedTime:1629251017e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

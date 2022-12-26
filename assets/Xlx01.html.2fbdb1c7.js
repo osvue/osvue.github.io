@@ -1,0 +1,1 @@
+const e={key:"v-61a22958",path:"/hhh/Xlx01.html",title:"心理学",lang:"zh-CN",frontmatter:{title:"心理学"},excerpt:"",headers:[],filePathRelative:"hhh/Xlx01.md",git:{updatedTime:1629445882e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:2}]}};export{e as data};

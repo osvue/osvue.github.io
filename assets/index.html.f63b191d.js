@@ -1,0 +1,1 @@
+const e={key:"v-4d4ea4fd",path:"/web/jquery/",title:"jquery",lang:"zh-CN",frontmatter:{title:"jquery"},excerpt:"",headers:[],filePathRelative:"web/jquery/README.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

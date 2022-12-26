@@ -1,0 +1,1 @@
+const e={key:"v-3ee05dfe",path:"/three/javautil/template.html",title:"blog 编写的模板",lang:"zh-CN",frontmatter:{title:"blog 编写的模板"},excerpt:"",headers:[{level:2,title:"参考模板",slug:"参考模板",children:[]}],filePathRelative:"three/javautil/template.md",git:{updatedTime:1629251017e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

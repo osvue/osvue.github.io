@@ -1,0 +1,1 @@
+const t={key:"v-3b2965a8",path:"/spring/springMvc/vmvc04_path.html",title:"AntPathMatcher",lang:"zh-CN",frontmatter:{"autoGroup-2":"SpringMVC",title:"AntPathMatcher"},excerpt:"",headers:[],filePathRelative:"spring/springMvc/vmvc04_path.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{t as data};

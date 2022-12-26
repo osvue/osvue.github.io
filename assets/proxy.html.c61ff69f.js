@@ -1,0 +1,1 @@
+const e={key:"v-5b651096",path:"/java/base/proxy.html",title:"Proxy",lang:"zh-CN",frontmatter:{title:"Proxy"},excerpt:"",headers:[{level:2,title:"jdk proxy",slug:"jdk-proxy",children:[]}],filePathRelative:"java/base/proxy.md",git:{updatedTime:1631447193e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

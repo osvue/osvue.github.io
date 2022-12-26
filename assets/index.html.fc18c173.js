@@ -1,0 +1,1 @@
+import{o as a,a as e,b as r,e as s}from"./app.8935f5f1.js";const n={},t={id:"基础工具",tabindex:"-1"},d=[r("a",{class:"header-anchor",href:"#基础工具","aria-hidden":"true"},"#",-1),s(" 基础工具")];n.render=function(r,s){return a(),e("h2",t,d)};export{n as default};

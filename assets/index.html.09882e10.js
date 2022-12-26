@@ -1,0 +1,1 @@
+import{o as a,a as e,b as r,e as t}from"./app.8935f5f1.js";const s={},h={id:"html",tabindex:"-1"},n=[r("a",{class:"header-anchor",href:"#html","aria-hidden":"true"},"#",-1),t(" html")];s.render=function(r,t){return a(),e("h2",h,n)};export{s as default};

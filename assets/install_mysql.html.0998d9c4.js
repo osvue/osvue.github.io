@@ -1,0 +1,1 @@
+const l={key:"v-285572c8",path:"/os/linux/install_mysql.html",title:"linux mysql",lang:"zh-CN",frontmatter:{title:"linux mysql"},excerpt:"",headers:[{level:3,title:"修改密码",slug:"修改密码",children:[]}],filePathRelative:"os/linux/install_mysql.md",git:{updatedTime:1661392578e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{l as data};

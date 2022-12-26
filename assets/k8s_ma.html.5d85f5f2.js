@@ -1,0 +1,1 @@
+const e={key:"v-5854a8af",path:"/os/docker/k8s_ma.html",title:"K8S_A",lang:"zh-CN",frontmatter:{title:"K8S_A"},excerpt:"",headers:[{level:3,title:"k8s",slug:"k8s",children:[]}],filePathRelative:"os/docker/k8s_ma.md",git:{updatedTime:1669623728e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

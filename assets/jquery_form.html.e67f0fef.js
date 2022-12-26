@@ -1,0 +1,1 @@
+const e={key:"v-855d9d9e",path:"/web/jquery/jquery_form.html",title:"表单对象",lang:"zh-CN",frontmatter:{"autoGroup-1":"jquery",title:"表单对象"},excerpt:"",headers:[{level:2,title:"form对象",slug:"form对象",children:[]}],filePathRelative:"web/jquery/jquery_form.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

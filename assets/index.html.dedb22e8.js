@@ -1,0 +1,1 @@
+const e={key:"v-9fa9e83e",path:"/aboutme/blogs/",title:"写在前面",lang:"zh-CN",frontmatter:{title:"写在前面"},excerpt:"",headers:[],filePathRelative:"aboutme/blogs/README.md",git:{updatedTime:1634122952e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:3},{name:"Lusifer",email:"hzqq110@163.com",commits:1}]}};export{e as data};

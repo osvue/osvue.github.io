@@ -1,0 +1,1 @@
+const e={key:"v-44c63a06",path:"/spring/springSecurity/03.html",title:"密码模式示例",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"配置 client-app_8082",slug:"配置-client-app-8082",children:[]}],filePathRelative:"spring/springSecurity/03.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

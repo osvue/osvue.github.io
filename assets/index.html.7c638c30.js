@@ -1,0 +1,1 @@
+const e={key:"v-2501eac8",path:"/web/socket/",title:"socket",lang:"zh-CN",frontmatter:{title:"socket"},excerpt:"",headers:[],filePathRelative:"web/socket/README.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

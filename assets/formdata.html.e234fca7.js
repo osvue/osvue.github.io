@@ -1,0 +1,1 @@
+const t={key:"v-be1d8b60",path:"/web/ajax/formdata.html",title:"formdata",lang:"zh-CN",frontmatter:{title:"formdata"},excerpt:"",headers:[{level:3,title:"FormData提供的方法",slug:"formdata提供的方法",children:[]}],filePathRelative:"web/ajax/formdata.md",git:{updatedTime:1669887033e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

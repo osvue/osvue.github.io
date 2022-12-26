@@ -1,0 +1,1 @@
+const e={key:"v-9828af56",path:"/java/io/",title:"java io",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"java/io/README.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

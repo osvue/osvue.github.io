@@ -1,0 +1,1 @@
+const e={key:"v-0dc9540f",path:"/ui/vue/vue_va_has.html",title:"自定义指令",lang:"zh-CN",frontmatter:{"autoGroup-1":"VueStudy",title:"自定义指令"},excerpt:"",headers:[{level:3,title:"注册指令",slug:"注册指令",children:[]}],filePathRelative:"ui/vue/vue_va_has.md",git:{updatedTime:1670315296e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-7140285c",path:"/os/amqp/amqp.html",title:"整合",lang:"zh-CN",frontmatter:{title:"整合"},excerpt:"",headers:[],filePathRelative:"os/amqp/amqp.md",git:{updatedTime:1661850135e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

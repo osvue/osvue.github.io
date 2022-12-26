@@ -1,0 +1,1 @@
+const e={key:"v-59b6e37f",path:"/ui/sass/",title:"sass",lang:"zh-CN",frontmatter:{title:"sass"},excerpt:"",headers:[],filePathRelative:"ui/sass/README.md",git:{updatedTime:1671974869e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:3}]}};export{e as data};

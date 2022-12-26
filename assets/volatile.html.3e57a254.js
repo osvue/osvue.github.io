@@ -1,0 +1,1 @@
+const e={key:"v-d82a021c",path:"/java/juc/volatile.html",title:"volatile",lang:"zh-CN",frontmatter:{title:"volatile"},excerpt:"",headers:[{level:2,title:"volatile",slug:"volatile",children:[]}],filePathRelative:"java/juc/volatile.md",git:{updatedTime:1635584199e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:2}]}};export{e as data};

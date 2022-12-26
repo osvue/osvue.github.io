@@ -1,0 +1,1 @@
+const e={key:"v-1c81da29",path:"/mapper/jpa/",title:"写在前面",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:3,title:"mapper",slug:"mapper",children:[]}],filePathRelative:"mapper/jpa/README.md",git:{updatedTime:1658394032e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1},{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

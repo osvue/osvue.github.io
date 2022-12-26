@@ -1,0 +1,1 @@
+const e={key:"v-f419f6f2",path:"/ui/css/democ.html",title:"democ",lang:"zh-CN",frontmatter:{"autoGroup-5":"一些实例",title:"democ"},excerpt:"",headers:[{level:2,title:"模拟小米",slug:"模拟小米",children:[]}],filePathRelative:"ui/css/democ.md",git:{updatedTime:1631093497e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

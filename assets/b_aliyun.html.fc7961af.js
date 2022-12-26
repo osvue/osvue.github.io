@@ -1,0 +1,1 @@
+const e={key:"v-6d2dd10b",path:"/os/docker/b_aliyun.html",title:"aliyun 加速",lang:"zh-CN",frontmatter:{title:"aliyun 加速"},excerpt:"",headers:[{level:3,title:"阿里云镜像加速",slug:"阿里云镜像加速",children:[]}],filePathRelative:"os/docker/b_aliyun.md",git:{updatedTime:1668565262e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

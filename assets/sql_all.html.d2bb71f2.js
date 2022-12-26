@@ -1,0 +1,1 @@
+const l={key:"v-3249fc1e",path:"/database/mysql/sql_all.html",title:"sql_all",lang:"zh-CN",frontmatter:{title:"sql_all"},excerpt:"",headers:[{level:3,title:"常用的sql",slug:"常用的sql",children:[]}],filePathRelative:"database/mysql/sql_all.md",git:{updatedTime:1669623728e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{l as data};

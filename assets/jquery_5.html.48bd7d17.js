@@ -1,0 +1,1 @@
+const e={key:"v-4277dca8",path:"/web/jquery/jquery_5.html",title:"禁止重复提交",lang:"zh-CN",frontmatter:{"autoGroup-1":"jquery",title:"禁止重复提交"},excerpt:"",headers:[{level:2,title:"禁止重复提交",slug:"禁止重复提交",children:[]}],filePathRelative:"web/jquery/jquery_5.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

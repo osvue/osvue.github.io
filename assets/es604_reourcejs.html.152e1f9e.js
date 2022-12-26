@@ -1,0 +1,1 @@
+const e={key:"v-6acfe668",path:"/ui/javascript/es604_reourcejs.html",title:"原生js",lang:"zh-CN",frontmatter:{"autoGroup-4":"ES6",title:"原生js"},excerpt:"",headers:[{level:2,title:"原生js",slug:"原生js",children:[]}],filePathRelative:"ui/javascript/es604_reourcejs.md",git:{updatedTime:162330483e4,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

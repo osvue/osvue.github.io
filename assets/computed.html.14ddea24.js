@@ -1,0 +1,1 @@
+const e={key:"v-74da594c",path:"/ui/javascript/computed.html",title:"算法",lang:"zh-CN",frontmatter:{title:"算法"},excerpt:"",headers:[{level:2,title:"二分查找",slug:"二分查找",children:[]}],filePathRelative:"ui/javascript/computed.md",git:{updatedTime:1631093497e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

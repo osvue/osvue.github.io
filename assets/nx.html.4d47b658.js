@@ -1,0 +1,1 @@
+const e={key:"v-73fa5de2",path:"/hhh/nx.html",title:"暖心",lang:"zh-CN",frontmatter:{title:"暖心"},excerpt:"",headers:[],filePathRelative:"hhh/nx.md",git:{updatedTime:1632054856e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:4},{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

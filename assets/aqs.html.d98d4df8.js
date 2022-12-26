@@ -1,0 +1,1 @@
+const e={key:"v-a6f45dbe",path:"/java/juc/aqs.html",title:"AQS",lang:"zh-CN",frontmatter:{title:"AQS"},excerpt:"",headers:[{level:3,title:"AQS是用来实现锁的",slug:"aqs是用来实现锁的",children:[]}],filePathRelative:"java/juc/aqs.md",git:{updatedTime:1635584199e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

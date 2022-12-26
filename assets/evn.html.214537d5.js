@@ -1,0 +1,1 @@
+const e={key:"v-c1b324e0",path:"/spring/bootorsp/evn.html",title:"环境变量读取和属性对象的绑定",lang:"zh-CN",frontmatter:{title:"环境变量读取和属性对象的绑定"},excerpt:"",headers:[{level:3,title:"自定义properties",slug:"自定义properties",children:[]}],filePathRelative:"spring/bootorsp/evn.md",git:{updatedTime:1658394032e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

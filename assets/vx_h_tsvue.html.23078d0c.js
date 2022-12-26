@@ -1,0 +1,1 @@
+const e={key:"v-703898db",path:"/ui/vue/vx_h_tsvue.html",title:"vue3/Ts",lang:"zh-CN",frontmatter:{"autoGroup-8":"Vue3",title:"vue3/Ts"},excerpt:"",headers:[{level:3,title:"使用ts 开发 vue3",slug:"使用ts-开发-vue3",children:[]}],filePathRelative:"ui/vue/vx_h_tsvue.md",git:{updatedTime:1671974869e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:2}]}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-36755214",path:"/ui/vue/vuex_e.html",title:"modules 进阶",lang:"zh-CN",frontmatter:{"autoGroup-5":"VueX",title:"modules 进阶"},excerpt:"",headers:[],filePathRelative:"ui/vue/vuex_e.md",git:{updatedTime:1625715197e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

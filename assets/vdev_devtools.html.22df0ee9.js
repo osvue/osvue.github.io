@@ -1,0 +1,1 @@
+const e={key:"v-3d049d04",path:"/ui/vue/vdev_devtools.html",title:"devtools",lang:"zh-CN",frontmatter:{"autoGroup-7":"development",title:"devtools"},excerpt:"",headers:[],filePathRelative:"ui/vue/vdev_devtools.md",git:{updatedTime:1628230826e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:2}]}};export{e as data};

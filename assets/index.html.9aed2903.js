@@ -1,0 +1,1 @@
+import{o as l,a,b as n}from"./app.8935f5f1.js";const s={},r=[n("li",null,"elastic Search",-1),n("li",null,"kibana",-1),n("li",null,"logstash",-1)];s.render=function(n,s){return l(),a("ul",null,r)};export{s as default};

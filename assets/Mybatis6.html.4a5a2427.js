@@ -1,0 +1,1 @@
+const t={key:"v-4bad98c5",path:"/mapper/mybatis/Mybatis6.html",title:"运行原理",lang:"zh-CN",frontmatter:{"autoGroup-1":"MYBATIS",title:"运行原理"},excerpt:"",headers:[{level:2,title:"缓存",slug:"缓存",children:[]}],filePathRelative:"mapper/mybatis/Mybatis6.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{t as data};

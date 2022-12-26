@@ -1,0 +1,1 @@
+const t={key:"v-795cab70",path:"/spring/bootorsp/interceptor.html",title:"interceptor",lang:"zh-CN",frontmatter:{title:"interceptor"},excerpt:"",headers:[{level:3,title:"interceptor",slug:"interceptor",children:[]}],filePathRelative:"spring/bootorsp/interceptor.md",git:{updatedTime:1658394032e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

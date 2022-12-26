@@ -1,0 +1,1 @@
+const e={key:"v-b482d968",path:"/ui/node/node.html",title:"Node安装与配置",lang:"zh-CN",frontmatter:{"autoGroup-1":"NodeJs",title:"Node安装与配置"},excerpt:"",headers:[],filePathRelative:"ui/node/node.md",git:{updatedTime:1623319258e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

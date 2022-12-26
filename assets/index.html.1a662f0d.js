@@ -1,0 +1,1 @@
+const e={key:"v-1058f77e",path:"/three/javautil/",title:"开篇",lang:"zh-CN",frontmatter:{title:"开篇"},excerpt:"",headers:[{level:2,title:"好记性不如烂笔头",slug:"好记性不如烂笔头",children:[]}],filePathRelative:"three/javautil/README.md",git:{updatedTime:1629251017e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-b9203dac",path:"/aboutme/me/stys.html",title:"减肥",lang:"zh-CN",frontmatter:{title:"减肥"},excerpt:"",headers:[],filePathRelative:"aboutme/me/stys.md",git:{updatedTime:1669365893e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

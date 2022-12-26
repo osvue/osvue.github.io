@@ -1,0 +1,1 @@
+const e={key:"v-d3837fce",path:"/ui/css/css_hove.html",title:"选择器相关",lang:"zh-CN",frontmatter:{title:"选择器相关"},excerpt:"",headers:[{level:3,title:"hover点击一个元素使另一个颜色变色",slug:"hover点击一个元素使另一个颜色变色",children:[]}],filePathRelative:"ui/css/css_hove.md",git:{updatedTime:1657015509e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

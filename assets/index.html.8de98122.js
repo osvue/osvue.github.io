@@ -1,0 +1,1 @@
+const e={key:"v-e529b0b6",path:"/three/reg/",title:"开篇",lang:"zh-CN",frontmatter:{title:"开篇"},excerpt:"",headers:[{level:3,title:"网络架构：",slug:"网络架构",children:[]}],filePathRelative:"three/reg/README.md",git:{updatedTime:167023301e4,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1},{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

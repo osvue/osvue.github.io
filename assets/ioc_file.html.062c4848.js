@@ -1,0 +1,1 @@
+const e={key:"v-3d99c634",path:"/java/io/ioc_file.html",title:"File",lang:"zh-CN",frontmatter:{"autoGroup-1":"IO",title:"File"},excerpt:"",headers:[{level:2,title:"",slug:"",children:[]}],filePathRelative:"java/io/ioc_file.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

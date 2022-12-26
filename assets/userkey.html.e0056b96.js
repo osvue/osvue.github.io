@@ -1,0 +1,1 @@
+const e={key:"v-48c67def",path:"/devtool/vscode/userkey.html",title:"快捷片段",lang:"zh-CN",frontmatter:{title:"快捷片段"},excerpt:"",headers:[],filePathRelative:"devtool/vscode/userkey.md",git:{updatedTime:1671961422e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{e as data};

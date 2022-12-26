@@ -1,0 +1,1 @@
+const t={key:"v-0a221d53",path:"/database/mysqlty/mysqlc_a.html",title:"索引优化分析案例",lang:"zh-CN",frontmatter:{"autoGroup-3":"索引",title:"索引优化分析案例"},excerpt:"",headers:[],filePathRelative:"database/mysqlty/mysqlc_a.md",git:{updatedTime:1630393481e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:2}]}};export{t as data};

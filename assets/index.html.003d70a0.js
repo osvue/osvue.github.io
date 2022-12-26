@@ -1,0 +1,1 @@
+import{o as a,a as e,b as r,e as s}from"./app.8935f5f1.js";const n={},t={id:"好记性不如烂笔头",tabindex:"-1"},d=[r("a",{class:"header-anchor",href:"#好记性不如烂笔头","aria-hidden":"true"},"#",-1),s(" 好记性不如烂笔头")];n.render=function(r,s){return a(),e("h2",t,d)};export{n as default};

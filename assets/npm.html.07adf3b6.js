@@ -1,0 +1,1 @@
+const e={key:"v-9bee320e",path:"/ui/node/npm.html",title:"npm",lang:"zh-CN",frontmatter:{"autoGroup-1":"NodeJs",title:"npm"},excerpt:"",headers:[{level:2,title:"npm 国内镜像与国外镜像",slug:"npm-国内镜像与国外镜像",children:[]}],filePathRelative:"ui/node/npm.md",git:{updatedTime:1623319258e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

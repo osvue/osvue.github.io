@@ -1,0 +1,1 @@
+const t={key:"v-1e3b6027",path:"/web/netty/nettyf_pkg.html",title:"粘包和拆包",lang:"zh-CN",frontmatter:{"autoGroup-1":"netty.io",title:"粘包和拆包"},excerpt:"",headers:[],filePathRelative:"web/netty/nettyf_pkg.md",git:{updatedTime:1632054856e3,contributors:[{name:"hanzq",email:"hzqq110@163.com",commits:1}]}};export{t as data};

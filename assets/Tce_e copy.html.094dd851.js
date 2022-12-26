@@ -1,0 +1,1 @@
+const e={key:"v-f9c286a6",path:"/spring/springCloud/Tce_e%20copy.html",title:"网关",lang:"zh-CN",frontmatter:{"autoGroup-1":"Microservice",title:"网关"},excerpt:"",headers:[],filePathRelative:"spring/springCloud/Tce_e copy.md",git:{updatedTime:1629799024e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

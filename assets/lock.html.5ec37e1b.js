@@ -1,0 +1,1 @@
+const e={key:"v-74765388",path:"/os/redis/lock.html",title:"分布式锁",lang:"zh-CN",frontmatter:{title:"分布式锁"},excerpt:"",headers:[{level:2,title:"自旋锁",slug:"自旋锁",children:[]},{level:2,title:"锁重入",slug:"锁重入",children:[]}],filePathRelative:"os/redis/lock.md",git:{updatedTime:163487122e4,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

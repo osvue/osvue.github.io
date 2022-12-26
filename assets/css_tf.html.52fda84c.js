@@ -1,0 +1,1 @@
+const e={key:"v-4a910ac6",path:"/ui/css/css_tf.html",title:"拖拽",lang:"zh-CN",frontmatter:{title:"拖拽"},excerpt:"",headers:[{level:2,title:"配合指定容器(常用)",slug:"配合指定容器-常用",children:[]}],filePathRelative:"ui/css/css_tf.md",git:{updatedTime:1631093497e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

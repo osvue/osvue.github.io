@@ -1,0 +1,1 @@
+import{o as s,a,F as l,b as o}from"./app.8935f5f1.js";const e={},t=o("ol",null,[o("li",null,"基本操作")],-1),n=o("p",null,'查询数据库 show databases 切换数据库 use test 查询当前数据库下面的集合 show collections 创建集合 db.createCollection("集合名称") 删除集合 db.集合名称.drop() 删除数据库 db.dropDatabase() //首先要通过use切换到当前的数据库',-1);e.render=function(o,e){return s(),a(l,null,[t,n],64)};export{e as default};

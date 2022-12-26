@@ -1,0 +1,1 @@
+const e={key:"v-0f6938c6",path:"/ui/javascript/unpkg.html",title:"unpkg",lang:"zh-CN",frontmatter:{title:"unpkg"},excerpt:"",headers:[{level:2,title:"unpkg",slug:"unpkg",children:[]}],filePathRelative:"ui/javascript/unpkg.md",git:{updatedTime:162330483e4,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

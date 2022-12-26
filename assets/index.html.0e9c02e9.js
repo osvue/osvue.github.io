@@ -1,0 +1,1 @@
+import{o as a,a as r,b as e,e as t}from"./app.8935f5f1.js";const s={},n={id:"quartz",tabindex:"-1"},d=[e("a",{class:"header-anchor",href:"#quartz","aria-hidden":"true"},"#",-1),t(" quartz")];s.render=function(e,t){return a(),r("h2",n,d)};export{s as default};

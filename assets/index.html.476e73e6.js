@@ -1,0 +1,1 @@
+const e={key:"v-13571399",path:"/spring/springSecurity/",title:"权限控制",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:3,title:"RBAC",slug:"rbac",children:[]},{level:3,title:"表设计",slug:"表设计",children:[]}],filePathRelative:"spring/springSecurity/README.md",git:{updatedTime:1629192748e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};

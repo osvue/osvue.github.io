@@ -1,0 +1,1 @@
+const e={key:"v-16a71358",path:"/web/socket/websocket_a.html",title:"webSocket",lang:"zh-CN",frontmatter:{"autoGroup-3":"IO",title:"webSocket"},excerpt:"",headers:[],filePathRelative:"web/socket/websocket_a.md",git:{updatedTime:1629251017e3,contributors:[{name:"osvue-slave",email:"hzqq110@163.com",commits:1}]}};export{e as data};
