@@ -1,0 +1,14 @@
+import{_ as e,p as a,q as t,a1 as s}from"./framework-d81ad7e5.js";const d={},c=s(`<h4 id="ss-是-socket-statistics-的首字母缩写。" tabindex="-1"><a class="header-anchor" href="#ss-是-socket-statistics-的首字母缩写。" aria-hidden="true">#</a> ss 是 Socket Statistics 的首字母缩写。</h4><ul><li><p>ss 命令由 iproute2 软件包提供（<code>yum install iproute</code>）。</p></li><li><p>iproute 2 包中的命令可以完全替代 net-tools 包中的 ifconfig、netstat、route 等命令。</p></li></ul><h3 id="无选项" tabindex="-1"><a class="header-anchor" href="#无选项" aria-hidden="true">#</a> 无选项</h3><p>单独使用的 ss 命令用于显示<strong>已建立</strong>的网络连接。例如：</p><div class="language-text" data-ext="text"><pre class="language-text"><code># ss
+Netid  State  Recv-Q  Send-Q  Local Address:Port  Peer Address:Port
+tcp    ESTAB  0       0       10.0.2.10:ssh       10.0.2.2:52316
+</code></pre></div><p>上述输出结果中的 ESTAB 代表网络连接的状态是“已建立”（Established）。</p><h3 id="h-选项" tabindex="-1"><a class="header-anchor" href="#h-选项" aria-hidden="true">#</a> -h 选项</h3><p><code>-h 或 --help</code> 用于显示帮助信息。</p><p>当然，也可以使用 <code>man ss</code> 命令查看更详细的帮助文档。</p><h3 id="a-选项" tabindex="-1"><a class="header-anchor" href="#a-选项" aria-hidden="true">#</a> -a 选项</h3><p><code>-a 或 --all</code> 用于显示所有的网络连接：监听中和非监听中（对于 tcp，就是监听中和已建立）。例如：</p><div class="language-text" data-ext="text"><pre class="language-text"><code># ss -a
+Netid  State  Recv-Q  Send-Q  Local Address:Port  Peer Address:Port
+tcp   ESTAB   0       0       10.0.2.10:ssh       10.0.2.2:52316
+tcp   LISTEN  0       128     [::]:ssh            [::]:*
+</code></pre></div><h3 id="l-选项" tabindex="-1"><a class="header-anchor" href="#l-选项" aria-hidden="true">#</a> -l 选项</h3><p><code>-l 或 --listening</code> 用于显示处于<strong>监听</strong>状态的网络连接。例如：</p><div class="language-text" data-ext="text"><pre class="language-text"><code># ss -l
+Netid  State  Recv-Q  Send-Q  Local Address:Port  Peer Address:Port
+tcp    LISTEN 0       128     *:ssh               *:*
+</code></pre></div><p>上述输出结果中的 LISTEN 代表网络连接的状态是“监听中”（Listening）。</p><h3 id="n-选项" tabindex="-1"><a class="header-anchor" href="#n-选项" aria-hidden="true">#</a> -n 选项</h3><p><code>-n 或 --numeric</code> 用于显示端口号，而非使用该端口号的服务。例如：</p><div class="language-text" data-ext="text"><pre class="language-text"><code># ss -n
+Netid  State  Recv-Q  Send-Q  Local Address:Port  Peer Address:Port
+tcp    ESTAB  0       0       10.0.2.10:22        10.0.2.2:52316
+</code></pre></div><p>使用选项 -n 后，显示端口号 22，而非使用 22 端口号的 ssh。</p><h3 id="p-选项" tabindex="-1"><a class="header-anchor" href="#p-选项" aria-hidden="true">#</a> -p 选项</h3><p><code>-p 或 --processes</code>，显示端口对应的进程名和进程号 PID。</p><h3 id="其它常用选项" tabindex="-1"><a class="header-anchor" href="#其它常用选项" aria-hidden="true">#</a> 其它常用选项</h3><ul><li><p><code>-t 或 --tcp</code>，仅显示 tcp 端口。</p></li><li><p><code>-u 或 --udp</code>，仅显示 udp 端口。</p></li><li><p><code>-x 或 --unix</code>，仅显示 Unix domain sockets。</p></li></ul>`,24),r=[c];function n(i,o){return a(),t("div",null,r)}const l=e(d,[["render",n],["__file","ss.html.vue"]]);export{l as default};

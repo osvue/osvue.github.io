@@ -1,0 +1,1 @@
+import{_ as l,p as n,q as t,R as e}from"./framework-d81ad7e5.js";const s={},c=e("ul",null,[e("li",null,"elastic Search"),e("li",null,"kibana"),e("li",null,"logstash")],-1),a=[c];function o(_,i){return n(),t("div",null,a)}const u=l(s,[["render",o],["__file","index.html.vue"]]);export{u as default};
