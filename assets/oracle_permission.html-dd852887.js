@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-684e2dff","path":"/database/oracle/oracle_permission.html","title":"oracle 权限","lang":"zh-CN","frontmatter":{"title":"oracle 权限"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"database/oracle/oracle_permission.md"}');export{e as data};

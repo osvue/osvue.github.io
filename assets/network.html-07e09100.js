@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-959eb550","path":"/os/linux/network.html","title":"network","lang":"zh-CN","frontmatter":{"title":"network"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"os/linux/network.md"}');export{t as data};

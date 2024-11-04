@@ -1,0 +1,10 @@
+import{_ as e,p as a,q as i,a1 as l}from"./framework-d81ad7e5.js";const n="/assets/a-d5f56b3d.png",t={},p=l('<h3 id="编程模型" tabindex="-1"><a class="header-anchor" href="#编程模型" aria-hidden="true">#</a> 编程模型</h3><p><img src="'+n+`" alt="alt"></p><p>面向对象编程</p><h2 id="aware-接口回调" tabindex="-1"><a class="header-anchor" href="#aware-接口回调" aria-hidden="true">#</a> Aware 接口回调</h2><p>接口回调 , 它是一种模式,这种方式会有一个set方法,会把对应的类型[<code>ApplicationContext</code> / <code>BeanFactory</code>]传递过来 ApplicationContextAware BeanFactoryAware</p><h2 id="beanpostprocessor-bean-生命周期的后置处理" tabindex="-1"><a class="header-anchor" href="#beanpostprocessor-bean-生命周期的后置处理" aria-hidden="true">#</a> BeanPostProcessor Bean 生命周期的后置处理</h2><p>后置处理器, 使用的java8的 default 接口</p><p>观察者模式 ApplicationEvent 事件机制 通过事件的机制,让监听器进行状态的回调 或者 事件的处理 组合模式 Composite 组合了多个成员 CompositeCacheManager 多个缓存进行合并,按照同一种方式来进行处理 模板模式 Template JDBCTemplate</p><p>轻量级 IOC 容器 最小化</p><p>面向对象编程</p><p>Aware 接口回调 接口回调 , 它是一种模式,这种方式会有一个set方法,会把对应的类型[<code>ApplicationContext</code> / <code>BeanFactory</code>]传递过来 ApplicationContextAware BeanFactoryAware</p><p>BeanPostProcessor Bean 生命周期的后置处理 后置处理器, 使用的java8的 default 接口</p><div class="language-text" data-ext="text"><pre class="language-text"><code>观察者模式
+    ApplicationEvent 事件机制
+    通过事件的机制,让监听器进行状态的回调 或者 事件的处理
+组合模式
+    Composite 组合了多个成员
+    CompositeCacheManager    多个缓存进行合并,按照同一种方式来进行处理
+模板模式
+    Template
+    JDBCTemplate
+</code></pre></div><ul><li><p>面向对象</p><ul><li>Aware</li><li>BeanPostProcessor</li></ul></li><li><p>面向切面</p><ul><li>AOP / cglib</li><li>动态代理</li></ul></li><li><p>面向元</p><ul><li>注解</li><li>配置元信息</li></ul></li><li><p>面向模块</p><ul><li>spirng Enable*</li><li>maven</li></ul></li><li><p>面向函数</p><ul><li>lambada</li></ul></li><li><p>Spring Framework 有哪些核心模块？</p><ul><li>spring-core：Spring 基础 API 模块，如资源管理，泛型处理</li><li>spring-beans：Spring Bean 相关，如依赖查找，依赖注入</li><li>spring-aop : Spring AOP 处理，如动态代理，AOP 字节码提升</li><li>spring-context : 事件驱动、注解驱动，模块驱动等</li><li>spring-expression：Spring 表达式语言模块</li></ul></li></ul>`,14),r=[p];function o(s,c){return a(),i("div",null,r)}const u=e(t,[["render",o],["__file","spring02_init.html.vue"]]);export{u as default};

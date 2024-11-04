@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3978d90e","path":"/mapper/jpa/config.html","title":"config","lang":"zh-CN","frontmatter":{"title":"config"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"mapper/jpa/config.md"}');export{t as data};

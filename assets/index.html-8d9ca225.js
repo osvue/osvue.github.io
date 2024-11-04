@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c5f05562","path":"/aboutme/vs/","title":"学识","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"情绪","slug":"情绪","link":"#情绪","children":[]}],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"aboutme/vs/README.md"}');export{e as data};

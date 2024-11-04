@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1c81da29","path":"/mapper/jpa/","title":"写在前面","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"mapper","slug":"mapper","link":"#mapper","children":[]}],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"mapper/jpa/README.md"}');export{e as data};

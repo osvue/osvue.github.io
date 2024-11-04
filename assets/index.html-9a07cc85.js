@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-222519ac","path":"/three/quartz/","title":"开篇","lang":"zh-CN","frontmatter":{"title":"开篇"},"headers":[{"level":2,"title":"quartz","slug":"quartz","link":"#quartz","children":[]}],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"three/quartz/README.md"}');export{t as data};

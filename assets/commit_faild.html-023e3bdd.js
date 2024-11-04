@@ -1,0 +1,12 @@
+import{_ as i,p as e,q as t,a1 as l}from"./framework-d81ad7e5.js";const a={},s=l(`<h2 id="git-生命周期" tabindex="-1"><a class="header-anchor" href="#git-生命周期" aria-hidden="true">#</a> Git 生命周期</h2><p>Git冲突：commit your changes or stash them before you can merge. 用git pull来更新代码，遇到的问题：</p><div class="language-bash" data-ext="sh"><pre class="language-bash"><code>
+
+error: Your <span class="token builtin class-name">local</span> changes to the following files would be overwritten by merge:
+
+    xxx/xxx/xxx.java
+
+Please, commit your changes or stash them before you can merge.
+
+Aborting
+</code></pre></div><h3 id="stash" tabindex="-1"><a class="header-anchor" href="#stash" aria-hidden="true">#</a> stash</h3><ol><li><p>git stash</p></li><li><p>git pull</p></li><li><p>git stash pop</p></li><li><p>接下来diff一下此文件看看自动合并的情况，并作出相应修改。</p><ol><li>git stash: 备份当前的工作区的内容，从最近的一次提交中读取相关内容，让工作区保证和上次提交的内容一致。同时，将当前的工作区内容保存到Git栈中。</li><li>git stash pop: 从Git栈中读取最近一次保存的内容，恢复工作区的相关内容。由于可能存在多个Stash的内容，所以用栈来管理，pop会从最近的一个stash中读取内容并恢复。</li><li>git stash list: 显示Git栈内的所有备份，可以利用这个列表来决定从那个地方恢复。</li><li>git stash clear: 清空Git栈。此时使用gitg等图形化工具会发现，原来stash的哪些节点都消失了。</li></ol></li><li><p>放弃本地修改，直接覆盖之</p></li></ol><div class="language-bash" data-ext="sh"><pre class="language-bash"><code><span class="token function">git</span> reset <span class="token parameter variable">--hard</span>
+<span class="token function">git</span> pull
+</code></pre></div><ul><li><p><code>git status .</code></p></li><li><p><code>git pull</code></p></li><li><p><code>// 出现该提示 Please, commit your changes or stash them before you can merge.</code></p></li><li><p><code>git stash</code></p></li><li><p><code>git pull</code></p></li><li><p><code>git stash pop</code></p></li><li><p><code>git status .</code></p></li><li><p><code>git add .</code></p></li><li><p><code>git commit -m &quot;&quot;</code></p></li><li><p><code>git push</code></p></li><li><p>解决冲突</p></li></ul><ol><li><p>中央仓库代表了正式项目，所以提交历史应该被尊重且是稳定不变的。</p></li><li><p>如果开发者本地的提交历史和中央仓库有分歧，Git 会拒绝 push 提交否则会覆盖已经在中央库的正式提交。</p></li><li><p>在开发者提交自己功能修改到中央库前，需要先 fetch 在中央库的新增提交，rebase 自己提交到中央库提交历史之上。</p></li><li><p>这样做的意思是在说，『我要把自己的修改加到别人已经完成的修改上。』最终的结果是一个完美的线性历史，就像以前的SVN 的工作流中一样。</p></li><li><p>如果本地修改和上游提交有冲突，Git 会暂停 rebase 过程，给你手动解决冲突的机会。</p></li><li><p>Git 解决合并冲突，用和生成提交一样的 git status 和 git add 命令，很一致方便。</p></li><li><p>还有一点，如果解决冲突时遇到麻烦，Git 可以很简单中止整个 rebase 操作，重来一次（或者让别人来帮助解决）</p></li></ol>`,8),o=[s];function p(c,n){return e(),t("div",null,o)}const r=i(a,[["render",p],["__file","commit_faild.html.vue"]]);export{r as default};
