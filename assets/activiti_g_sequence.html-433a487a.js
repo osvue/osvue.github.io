@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1eb15f48","path":"/web/activiti/activiti_g_sequence.html","title":"连线","lang":"zh-CN","frontmatter":{"title":"连线"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"web/activiti/activiti_g_sequence.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-61a22958","path":"/hhh/Xlx01.html","title":"心理学","lang":"zh-CN","frontmatter":{"title":"心理学"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"hhh/Xlx01.md"}');export{t as data};

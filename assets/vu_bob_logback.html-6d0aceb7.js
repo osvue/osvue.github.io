@@ -1,0 +1,22 @@
+import{_ as a,p as n,q as s,a1 as t}from"./framework-d81ad7e5.js";const p={},o=t(`<h4 id="logback的配置文件必须放在项目根目录中-且名字必须为-logback-xml" tabindex="-1"><a class="header-anchor" href="#logback的配置文件必须放在项目根目录中-且名字必须为-logback-xml" aria-hidden="true">#</a> logback的配置⽂件必须放在项⽬根⽬录中 且名字必须为 <strong>logback.xml</strong></h4><div class="language-xml" data-ext="xml"><pre class="language-xml"><code><span class="token prolog">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;</span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>configuration</span><span class="token punctuation">&gt;</span></span>
+ <span class="token comment">&lt;!--定义项⽬中⽇志输出位置--&gt;</span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>appender</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>stdout<span class="token punctuation">&quot;</span></span>
+<span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>ch.qos.logback.core.ConsoleAppender<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+ <span class="token comment">&lt;!--定义项⽬的⽇志输出格式--&gt;</span>
+ <span class="token comment">&lt;!--定义项⽬的⽇志输出格式--&gt;</span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>layout</span>
+<span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>ch.qos.logback.classic.PatternLayout<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>pattern</span><span class="token punctuation">&gt;</span></span> [%p] %d{yyyy-MM-dd HH:mm:ss}
+%m %n<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>pattern</span><span class="token punctuation">&gt;</span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>layout</span><span class="token punctuation">&gt;</span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>appender</span><span class="token punctuation">&gt;</span></span>
+ <span class="token comment">&lt;!--项⽬中跟⽇志控制--&gt;</span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>root</span> <span class="token attr-name">level</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>INFO<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>appender-ref</span> <span class="token attr-name">ref</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>stdout<span class="token punctuation">&quot;</span></span><span class="token punctuation">/&gt;</span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>root</span><span class="token punctuation">&gt;</span></span>
+ <span class="token comment">&lt;!--项⽬中指定包⽇志控制--&gt;</span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>logger</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>com.osvue.lcon<span class="token punctuation">&quot;</span></span> <span class="token attr-name">level</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>DEBUG<span class="token punctuation">&quot;</span></span><span class="token punctuation">/&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>configuration</span><span class="token punctuation">&gt;</span></span>
+
+</code></pre></div>`,2),c=[o];function e(l,u){return n(),s("div",null,c)}const i=a(p,[["render",e],["__file","vu_bob_logback.html.vue"]]);export{i as default};

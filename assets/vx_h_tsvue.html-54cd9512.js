@@ -1,0 +1,13 @@
+import{_ as a,M as t,p as e,q as o,R as n,t as p,N as c,a1 as l}from"./framework-d81ad7e5.js";const r={},u={href:"https://v3.vuejs.org/",target:"_blank",rel:"noopener noreferrer"},i=l(`<ul><li>VUE3中，新增了 <strong>defineComponent</strong> ，它并没有实现任何的逻辑，只是把接收的 Object 直接返回，</li><li>它的存在是完全让传入的整个对象获得对应的类型，它的存在就是完全为了服务 <strong>TypeScript</strong> 而存在的。</li></ul><h3 id="使用ts-开发-vue3" tabindex="-1"><a class="header-anchor" href="#使用ts-开发-vue3" aria-hidden="true">#</a> 使用ts 开发 vue3</h3><ul><li>use <strong><code>export default defineComponent</code></strong> 包裹</li></ul><div class="language-vue" data-ext="vue"><pre class="language-vue"><code>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>ts<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+<span class="token keyword">import</span> <span class="token punctuation">{</span> defineComponent <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">&#39;vue&#39;</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> HelloWorld <span class="token keyword">from</span> <span class="token string">&#39;./components/HelloWorld.vue&#39;</span><span class="token punctuation">;</span>
+
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token function">defineComponent</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+  <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">&#39;App&#39;</span><span class="token punctuation">,</span>
+  <span class="token literal-property property">components</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    HelloWorld
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div>`,4);function k(d,g){const s=t("ExternalLinkIcon");return e(),o("div",null,[n("ul",null,[n("li",null,[n("a",u,[p("vue3 官方文档"),c(s)])])]),i])}const v=a(r,[["render",k],["__file","vx_h_tsvue.html.vue"]]);export{v as default};

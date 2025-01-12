@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-aa9018cc","path":"/ui/node/export.html","title":"exports与module.export","lang":"zh-CN","frontmatter":{"autoGroup-1":"NodeJs","title":"exports与module.export"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"ui/node/export.md"}');export{e as data};

@@ -1,0 +1,2 @@
+import{_ as o,p as t,q as a,R as e,t as n}from"./framework-d81ad7e5.js";const s={},c=e("h3",{id:"整合mongodb",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#整合mongodb","aria-hidden":"true"},"#"),n(" 整合MongoDB")],-1),_=e("div",{class:"language-xml","data-ext":"xml"},[e("pre",{class:"language-xml"},[e("code",null,`
+`)])],-1),d=[c,_];function l(r,h){return t(),a("div",null,d)}const m=o(s,[["render",l],["__file","oth_mongo.html.vue"]]);export{m as default};

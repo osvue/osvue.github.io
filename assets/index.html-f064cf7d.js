@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c5f09c58","path":"/aboutme/me/","title":"感谢有你","lang":"zh-CN","frontmatter":{"title":"感谢有你"},"headers":[],"git":{"updatedTime":1735868565000,"contributors":[{"name":"KTYhzqq","email":"hzqq110@163.com","commits":1},{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"aboutme/me/README.md"}');export{e as data};
