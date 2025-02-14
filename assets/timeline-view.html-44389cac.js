@@ -1,0 +1,4 @@
+import{_ as e,p as a,q as n,a1 as t}from"./framework-d81ad7e5.js";const o={},s=t(`<h2 id="说明" tabindex="-1"><a class="header-anchor" href="#说明" aria-hidden="true">#</a> 说明</h2><blockquote><p>虽然该项应该被记录在版本提升当中，但实在是太喜欢这个功能了。</p></blockquote><p>查看一个文件被 <code>git</code> 跟踪的记录。</p><h2 id="使用" tabindex="-1"><a class="header-anchor" href="#使用" aria-hidden="true">#</a> 使用</h2><p>打开 <code>Settings</code>，切换到 <code>JSON</code> 格式，在合适的地方添加：</p><div class="language-json" data-ext="json"><pre class="language-json"><code><span class="token punctuation">{</span>
+  <span class="token property">&quot;timeline.showView&quot;</span><span class="token operator">:</span> <span class="token boolean">true</span>
+<span class="token punctuation">}</span>
+</code></pre></div>`,6),c=[s];function i(r,d){return a(),n("div",null,c)}const l=e(o,[["render",i],["__file","timeline-view.html.vue"]]);export{l as default};

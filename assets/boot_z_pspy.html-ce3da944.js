@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f15ca23c","path":"/spring/springBoot/boot_z_pspy.html","title":"SpringBoot使用p6spy监控数据库","lang":"zh-CN","frontmatter":{"title":"SpringBoot使用p6spy监控数据库"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"spring/springBoot/boot_z_pspy.md"}');export{t as data};

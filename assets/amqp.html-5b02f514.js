@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7140285c","path":"/os/amqp/amqp.html","title":"整合","lang":"zh-CN","frontmatter":{"title":"整合"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"os/amqp/amqp.md"}');export{t as data};

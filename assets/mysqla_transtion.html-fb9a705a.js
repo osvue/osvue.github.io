@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2f7233cc","path":"/database/mysqlty/mysqla_transtion.html","title":"事务","lang":"zh-CN","frontmatter":{"title":"事务"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"database/mysqlty/mysqla_transtion.md"}');export{t as data};

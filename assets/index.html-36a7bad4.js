@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1db28c54","path":"/three/markdown/","title":"开篇","lang":"zh-CN","frontmatter":{"title":"开篇"},"headers":[{"level":2,"title":"md","slug":"md","link":"#md","children":[]}],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"three/markdown/README.md"}');export{e as data};

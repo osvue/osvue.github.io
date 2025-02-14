@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0d8bce91","path":"/database/mysqlty/mysqlc_c.html","title":"前缀索引","lang":"zh-CN","frontmatter":{"autoGroup-3":"索引","title":"前缀索引"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"database/mysqlty/mysqlc_c.md"}');export{t as data};

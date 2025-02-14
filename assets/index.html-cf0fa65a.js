@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as n}from"./framework-d81ad7e5.js";const r={},s=e("h2",{id:"好记性不如烂笔头",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#好记性不如烂笔头","aria-hidden":"true"},"#"),n(" 好记性不如烂笔头")],-1),o=[s];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

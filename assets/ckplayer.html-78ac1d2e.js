@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d834c6fa","path":"/ui/media/ckplayer.html","title":"加载视频","lang":"zh-CN","frontmatter":{"title":"加载视频"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"ui/media/ckplayer.md"}');export{e as data};

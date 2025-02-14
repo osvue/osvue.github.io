@@ -1,0 +1,1 @@
+import{_ as l,p as n,q as t,R as e}from"./framework-d81ad7e5.js";const _={},c=e("ul",null,[e("li",null,"计算框架"),e("li",null,"矩阵"),e("li",null,"线代")],-1),o=[c];function s(i,r){return n(),t("div",null,o)}const u=l(_,[["render",s],["__file","index.html.vue"]]);export{u as default};

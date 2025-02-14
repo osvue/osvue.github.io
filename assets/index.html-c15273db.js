@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-da2c3810","path":"/java/maven/","title":"maven","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"仓库地址","slug":"仓库地址","link":"#仓库地址","children":[]}],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"java/maven/README.md"}');export{e as data};

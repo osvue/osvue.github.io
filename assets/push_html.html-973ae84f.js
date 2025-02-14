@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-e6e46c1e","path":"/web/socket/push_html.html","title":"hfPush","lang":"zh-CN","frontmatter":{"title":"hfPush"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"web/socket/push_html.md"}');export{t as data};

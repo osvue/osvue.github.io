@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4473ee76","path":"/ui/cssdev/csshover.html","title":"hover","lang":"zh-CN","frontmatter":{"title":"hover"},"headers":[],"git":{"updatedTime":1712742098000,"contributors":[{"name":"KTYhzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"ui/cssdev/csshover.md"}');export{e as data};

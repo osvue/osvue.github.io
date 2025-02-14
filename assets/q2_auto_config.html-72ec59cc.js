@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a3431744","path":"/spring/springBoot/q2_auto_config.html","title":"自动装配原理","lang":"zh-CN","frontmatter":{"autoGroup-2":"源码解析","title":"自动装配原理"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"spring/springBoot/q2_auto_config.md"}');export{t as data};

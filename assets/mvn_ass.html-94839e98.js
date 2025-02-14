@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f25b0bec","path":"/java/maven/mvn_ass.html","title":"assembly","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"打包插件","slug":"打包插件","link":"#打包插件","children":[]}],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"java/maven/mvn_ass.md"}');export{e as data};

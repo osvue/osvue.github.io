@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d049d04","path":"/ui/vue/vdev_devtools.html","title":"devtools","lang":"zh-CN","frontmatter":{"autoGroup-7":"development","title":"devtools"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"ui/vue/vdev_devtools.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bdae6ba4","path":"/ui/javascript/es607_promise.html","title":"Promise","lang":"zh-CN","frontmatter":{"autoGroup-4":"ES6","title":"Promise"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"ui/javascript/es607_promise.md"}');export{e as data};

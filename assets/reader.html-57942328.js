@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-72832a81","path":"/java/io/reader.html","title":"字符字节","lang":"zh-CN","frontmatter":{"title":"字符字节"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"java/io/reader.md"}');export{a as data};

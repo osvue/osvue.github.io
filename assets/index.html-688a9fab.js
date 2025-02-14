@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7bf9a8bb","path":"/web/ajax/","title":"三驾马车","lang":"zh-CN","frontmatter":{"title":"三驾马车"},"headers":[{"level":2,"title":"60util","slug":"_60util","link":"#_60util","children":[]}],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"web/ajax/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a66b025e","path":"/spring/springBoot/vu_bob_logback.html","title":"logback","lang":"zh-CN","frontmatter":{"autoGroup-5":"boot","title":"logback"},"headers":[],"git":{"updatedTime":1711175061000,"contributors":[{"name":"hzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"spring/springBoot/vu_bob_logback.md"}');export{t as data};

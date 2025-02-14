@@ -1,0 +1,1 @@
+import{_ as c,p as o,q as s,R as e,t}from"./framework-d81ad7e5.js";const a={},n=e("div",{class:"custom-container tip"},[e("p",{class:"custom-container-title"},"TIP"),e("p",null,[t("Volatile "),e("br"),t(" ThreadLocal")])],-1),l=[n];function r(_,i){return o(),s("div",null,l)}const m=c(a,[["render",r],["__file","index.html.vue"]]);export{m as default};
