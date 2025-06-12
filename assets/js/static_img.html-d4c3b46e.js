@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1b40d89d","path":"/ui/openlayer/static_img.html","title":"静态图片","lang":"zh-CN","frontmatter":{"title":"静态图片"},"headers":[],"git":{"updatedTime":1717641775000,"contributors":[{"name":"KTYhzqq","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"ui/openlayer/static_img.md"}');export{t as data};

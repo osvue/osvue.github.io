@@ -1,0 +1,1 @@
+import{_ as n,o as t,c as o,b as l}from"./app-215c512d.js";const r={};function s(c,e){return t(),o("div",null,e[0]||(e[0]=[l("ul",null,[l("li",null,"计算框架"),l("li",null,"矩阵"),l("li",null,"线代")],-1)]))}const u=n(r,[["render",s],["__file","index.html.vue"]]);export{u as default};

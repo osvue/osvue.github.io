@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-20dc503d","path":"/os/elk/","title":"开篇","lang":"zh-CN","frontmatter":{"title":"开篇"},"headers":[],"git":{"updatedTime":1629251017000,"contributors":[{"name":"osvue-slave","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"os/elk/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as s,b as a,d as c}from"./app-215c512d.js";const n={};function d(o,e){return t(),s("div",null,e[0]||(e[0]=[a("h2",{id:"echarts",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#echarts","aria-hidden":"true"},"#"),c(" echarts")],-1)]))}const l=r(n,[["render",d],["__file","index.html.vue"]]);export{l as default};

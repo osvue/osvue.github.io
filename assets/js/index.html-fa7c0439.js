@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as n,b as e,d as o}from"./app-215c512d.js";const s={};function l(r,t){return c(),n("div",null,t[0]||(t[0]=[e("div",{class:"custom-container tip"},[e("p",{class:"custom-container-title"},"TIP"),e("p",null,[o("Volatile "),e("br"),o(" ThreadLocal")])],-1)]))}const d=a(s,[["render",l],["__file","index.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4d4ea4fd","path":"/web/jquery/","title":"jquery","lang":"zh-CN","frontmatter":{"title":"jquery"},"headers":[],"git":{"updatedTime":1629192748000,"contributors":[{"name":"osvue-slave","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"web/jquery/README.md"}');export{e as data};

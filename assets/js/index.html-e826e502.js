@@ -1,0 +1,1 @@
+import{_ as n,o as t,c as a,b as l}from"./app-215c512d.js";const s={};function o(r,e){return t(),a("div",null,e[0]||(e[0]=[l("ul",null,[l("li",null,"elastic Search"),l("li",null,"kibana"),l("li",null,"logstash")],-1)]))}const i=n(s,[["render",o],["__file","index.html.vue"]]);export{i as default};

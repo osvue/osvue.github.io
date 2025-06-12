@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-9828af56","path":"/java/io/","title":"java io","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1629192748000,"contributors":[{"name":"osvue-slave","email":"hzqq110@163.com","commits":1}]},"filePathRelative":"java/io/README.md"}');export{a as data};

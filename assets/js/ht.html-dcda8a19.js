@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,b as r}from"./app-215c512d.js";const l={};function s(c,e){return n(),o("div",null,e[0]||(e[0]=[r("p",null,"能承受多少，就会得到多少 陪伴是最长情的告白，在做但是可以做得更好 2021年的计划不算圆满，可能是自己太懒惰太容易满足，我知道身边有更多比我优秀比我出色的同龄人，我也真心敬仰他们，新的一年，依旧像他们看齐，希望自己依然有梦想，依然被爱，依然给他人温暖。",-1)]))}const a=t(l,[["render",s],["__file","ht.html.vue"]]);export{a as default};
